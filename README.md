@@ -1,5 +1,3 @@
-Certainly. Here's a concise and direct explanation for the two pages, suitable for inclusion in your `README.md`:
-
 ---
 
 ## 📄 Page Summaries
@@ -8,8 +6,6 @@ Certainly. Here's a concise and direct explanation for the two pages, suitable f
 This document explores the Christological significance of apocryphal books removed from the 1611 King James BibleIt presents theories on how texts like 1 Esdras and 2 Esdras foreshadow Christ's role and mission, highlighting themes such as the supremacy of truth and apocalyptic visions
 
 - **[Jesus-Warns.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Warns.md)**  
-A compilation of warnings issued by Jesus in the Four Gospels (KJV), providing context and explanations for eachTopics include cautions against false prophets and the importance of true discipleship, emphasizing the need for vigilance and discernment in spiritual matters
+A compilation of warnings issued by Jesus in the Four Gospels (KJV), providing context and explanations for each Topics include cautions against false prophets and the importance of true discipleship, emphasizing the need for vigilance and discernment in spiritual matters
 
 ---
-
-If you need further assistance or modifications, feel free to ask. 
