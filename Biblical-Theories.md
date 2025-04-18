@@ -1,12 +1,3 @@
-Got it. I’ll investigate references or themes connected to Christ the Lord across the 22 books that were part of the original 1611 King James Bible (bringing the total to 88 books), but were later removed—often referred to as the Apocrypha.
-
-For each book, I’ll generate:
-1. A short theory (up to 3 sentences) on how it relates to Christ.
-2. A brief context summary (up to 3 sentences).
-3. A one-sentence explanation.
-
-I’ll get started and update you when the full findings are ready.
-
 # Christological Significance of the Removed Apocryphal Books (1611 KJV)
 
 ## 1 Esdras  
