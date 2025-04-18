@@ -1,6 +1,6 @@
 ---
 
-##📄Page Summaries
+## Page Summaries
 
 - **[Biblical-Theories.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical-Theories.md)**  
 This document explores the Christological significance of apocryphal books removed from the 1611 King James Bible It presents theories on how texts like 1 Esdras and 2 Esdras foreshadow Christ's role and mission, highlighting themes such as the supremacy of truth and apocalyptic visions
