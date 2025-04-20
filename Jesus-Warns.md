@@ -2,53 +2,28 @@
 ## 📜 Table of Contents
 - [Beware of False Prophets (Matthew 7:15)](#beware-of-false-prophets-matthew-715)
 - [Beware of False Messiahs and Deception (Matthew 24:4-5)](#beware-of-false-messiahs-and-deception-matthew-244-5)
-- [Beware of Hypocrisy  The Leaven of the Pharisees (Luke 12:1)](#beware-of-hypocrisy--the-leaven-of-the-pharisees-luke-121)
+- [Beware of Hypocrisy – The Leaven of the Pharisees (Luke 12:1)](#beware-of-hypocrisy--the-leaven-of-the-pharisees-luke-121)
 - [Beware of the Scribes (Prideful Religious Leaders) (Mark 12:38)](#beware-of-the-scribes-prideful-religious-leaders-mark-1238)
 - [Beware of Covetousness (Greed) (Luke 12:15)](#beware-of-covetousness-greed-luke-1215)
 - [Beware of Persecutors (Beware of Men) (Matthew 10:17)](#beware-of-persecutors-beware-of-men-matthew-1017)
 - [Fear God Rather Than Men (Matthew 10:28; Luke 12:4-5)](#fear-god-rather-than-men-matthew-1028-luke-124-5)
 - [Do Not Deny Christ Before Others (Matthew 10:32-33)](#do-not-deny-christ-before-others-matthew-1032-33)
-- [Blasphemy Against the Holy Spirit  Unforgivable Warning (Matthew 12:31-32)](#blasphemy-against-the-holy-spirit--unforgivable-warning-matthew-1231-32)
+- [Blasphemy Against the Holy Spirit – Unforgivable Warning (Matthew 12:31-32)](#blasphemy-against-the-holy-spirit--unforgivable-warning-matthew-1231-32)
 - [Woe to Unrepentant Cities (Matthew 11:20-24)](#woe-to-unrepentant-cities-matthew-1120-24)
-- [Except Ye Repent Ye Shall All Likewise Perish (Luke 13:35)](#except-ye-repent-ye-shall-all-likewise-perish-luke-1335)
+- [Except Ye Repent, Ye Shall All Likewise Perish (Luke 13:3,5)](#except-ye-repent-ye-shall-all-likewise-perish-luke-1335)
 - [Woe to Those Who Cause Others to Stumble (Matthew 18:6-7)](#woe-to-those-who-cause-others-to-stumble-matthew-186-7)
 - [Remove Whatever Causes You to Sin (to Avoid Hell) (Mark 9:43-48)](#remove-whatever-causes-you-to-sin-to-avoid-hell-mark-943-48)
-- [Forgive Others or You Will Not Be Forgiven (Matthew 6:14-15)](#forgive-others-or-you-will-not-be-forgiven-matthew-614-15)
-- [Judge Not That Ye Be Not Judged (Matthew 7:1-2)](#judge-not-that-ye-be-not-judged-matthew-71-2)
+- [Forgive Others, or You Will Not Be Forgiven (Matthew 6:14-15)](#forgive-others-or-you-will-not-be-forgiven-matthew-614-15)
+- [Judge Not, That Ye Be Not Judged (Matthew 7:1-2)](#judge-not-that-ye-be-not-judged-matthew-71-2)
 - [Woe to Hypocritical Religious Leaders (Matthew 23:13-33)](#woe-to-hypocritical-religious-leaders-matthew-2313-33)
 - [Woe to the Betrayer (Judas Iscariot) (Matthew 26:24)](#woe-to-the-betrayer-judas-iscariot-matthew-2624)
-- [Stay Alert: Be Ready for Christs Return (Matthew 24:42-44)](#stay-alert-be-ready-for-christs-return-matthew-2442-44)
+- [Stay Alert: Be Ready for Christ’s Return (Matthew 24:42-44)](#stay-alert-be-ready-for-christs-return-matthew-2442-44)
 - [Do Not Be Weighed Down by Worldliness (Luke 21:34-36)](#do-not-be-weighed-down-by-worldliness-luke-2134-36)
-- [Remember Lots Wife (Luke 17:32)](#remember-lots-wife-luke-1732)
-- [Sin No More Lest a Worse Thing Come unto Thee (John 5:14)](#sin-no-more-lest-a-worse-thing-come-unto-thee-john-514)
-- [If Ye Believe Not Ye Shall Die in Your Sins (John 8:24)](#if-ye-believe-not-ye-shall-die-in-your-sins-john-824)
+- [Remember Lot’s Wife (Luke 17:32)](#remember-lots-wife-luke-1732)
+- [Sin No More, Lest a Worse Thing Come unto Thee (John 5:14)](#sin-no-more-lest-a-worse-thing-come-unto-thee-john-514)
+- [If Ye Believe Not, Ye Shall Die in Your Sins (John 8:24)](#if-ye-believe-not-ye-shall-die-in-your-sins-john-824)
 - [If Anyone Does Not Abide in Me (John 15:6)](#if-anyone-does-not-abide-in-me-john-156)
-- [Final Exhortation: Heed Jesuss Warnings](#final-exhortation-heed-jesuss-warnings)
-
-- [Beware of False Prophets (Matthew 7:15)](#beware-of-false-prophets-matthew-715)
-- [Beware of False Messiahs and Deception (Matthew 24:4-5)](#beware-of-false-messiahs-and-deception-matthew-244-5)
-- [Beware of Hypocrisy – The <span style="color:red">Leaven</span> of the Pharisees (Luke 12:1)](#beware-of-hypocrisy-–-the-<span-style="colorred">leaven</span>-of-the-pharisees-luke-121)
-- [Beware of the Scribes (Prideful Religious Leaders) (Mark 12:38)](#beware-of-the-scribes-prideful-religious-leaders-mark-1238)
-- [Beware of Covetousness (Greed) (Luke 12:15)](#beware-of-covetousness-greed-luke-1215)
-- [Beware of Persecutors (<span style="color:red">Beware of Men</span>) (Matthew 10:17)](#beware-of-persecutors-<span-style="colorred">beware-of-men</span>-matthew-1017)
-- [Fear God Rather Than Men (Matthew 10:28; Luke 12:4-5)](#fear-god-rather-than-men-matthew-1028;-luke-124-5)
-- [Do Not Deny Christ Before Others (Matthew 10:32-33)](#do-not-deny-christ-before-others-matthew-1032-33)
-- [Blasphemy Against the Holy Spirit – Unforgivable Warning (Matthew 12:31-32)](#blasphemy-against-the-holy-spirit-–-unforgivable-warning-matthew-1231-32)
-- [Woe to Unrepentant Cities (Matthew 11:20-24)](#woe-to-unrepentant-cities-matthew-1120-24)
-- [<span style="color:red">Except Ye Repent, Ye Shall All Likewise Perish</span> (Luke 13:3,5)](#<span-style="colorred">except-ye-repent,-ye-shall-all-likewise-perish</span>-luke-133,5)
-- [Woe to Those Who Cause Others to Stumble (Matthew 18:6-7)](#woe-to-those-who-cause-others-to-stumble-matthew-186-7)
-- [Remove Whatever Causes You to Sin (to Avoid Hell) (Mark 9:43-48)](#remove-whatever-causes-you-to-sin-to-avoid-hell-mark-943-48)
-- [Forgive Others, or You Will Not Be Forgiven (Matthew 6:14-15)](#forgive-others,-or-you-will-not-be-forgiven-matthew-614-15)
-- [<span style="color:red">Judge Not, That Ye Be Not Judged</span> (Matthew 7:1-2)](#<span-style="colorred">judge-not,-that-ye-be-not-judged</span>-matthew-71-2)
-- [Woe to Hypocritical Religious Leaders (Matthew 23:13-33)](#woe-to-hypocritical-religious-leaders-matthew-2313-33)
-- [Woe to the Betrayer (Judas Iscariot) (Matthew 26:24)](#woe-to-the-betrayer-judas-iscariot-matthew-2624)
-- [Stay Alert: Be Ready for Christ’s Return (Matthew 24:42-44)](#stay-alert-be-ready-for-christ’s-return-matthew-2442-44)
-- [Do Not Be Weighed Down by Worldliness (Luke 21:34-36)](#do-not-be-weighed-down-by-worldliness-luke-2134-36)
-- [<span style="color:red">Remember Lot’s Wife</span> (Luke 17:32)](#<span-style="colorred">remember-lot’s-wife</span>-luke-1732)
-- [<span style="color:red">Sin No More, Lest a Worse Thing Come unto Thee</span> (John 5:14)](#<span-style="colorred">sin-no-more,-lest-a-worse-thing-come-unto-thee</span>-john-514)
-- [<span style="color:red">If Ye Believe Not… Ye Shall Die in Your Sins</span> (John 8:24)](#<span-style="colorred">if-ye-believe-not…-ye-shall-die-in-your-sins</span>-john-824)
-- [<span style="color:red">If Anyone Does Not Abide in Me…</span> (John 15:6)](#<span-style="colorred">if-anyone-does-not-abide-in-me…</span>-john-156)
-- [*Final Exhortation:* Heed Jesus’s Warnings](#*final-exhortation*-heed-jesus’s-warnings)
+- [Final Exhortation: Heed Jesus’s Warnings](#final-exhortation-heed-jesuss-warnings)
 
 ## Beware of False Prophets (Matthew 7:15)
 
@@ -80,7 +55,7 @@
 
 ---
 
-## Beware of Hypocrisy  The Leaven of the Pharisees (Luke 12:1)
+## Beware of Hypocrisy – The Leaven of the Pharisees (Luke 12:1)
 
 **Context:**  
 - Shortly after a tense confrontation in which Jesus denounced the Pharisees’ and lawyers’ hypocrisy (Luke 11:37-52), those leaders began to assail Him fiercely and **lay traps in debate** (Luke 11:53-54).  
@@ -170,7 +145,7 @@
 
 ---
 
-## Blasphemy Against the Holy Spirit  Unforgivable Warning (Matthew 12:31-32)
+## Blasphemy Against the Holy Spirit – Unforgivable Warning (Matthew 12:31-32)
 
 **Context:**  
 - This warning was given after a specific confrontation with the Pharisees. Jesus had just healed a demon-possessed blind mute man – a stunning miracle that had the crowds wondering if Jesus might be the Son of David (Messiah) (Matthew 12:22-23).  
@@ -202,7 +177,7 @@
 
 ---
 
-## Except Ye Repent Ye Shall All Likewise Perish (Luke 13:35)
+## Except Ye Repent, Ye Shall All Likewise Perish (Luke 13:35)
 
 **Context:**  
 - Some people told Jesus about a recent atrocity: **Pilate had killed some Galilean worshipers** and mingled their blood with their sacrifices (Luke 13:1). This news event raised the age-old question of whether those victims were extraordinarily sinful to suffer such a fate.  
@@ -248,7 +223,7 @@
 
 ---
 
-## Forgive Others or You Will Not Be Forgiven (Matthew 6:14-15)
+## Forgive Others, or You Will Not Be Forgiven (Matthew 6:14-15)
 
 **Context:**  
 - In the Sermon on the Mount, Jesus taught His disciples how to pray in what is commonly called the Lord’s Prayer (Matthew 6:9-13). One petition in that model prayer is, <span style="color:red">Forgive us our debts, **as we forgive our debtors**</span> (Matthew 6:12).  
@@ -263,7 +238,7 @@
 
 ---
 
-## Judge Not That Ye Be Not Judged (Matthew 7:1-2)
+## Judge Not, That Ye Be Not Judged (Matthew 7:1-2)
 
 **Context:**  
 - Earlier in the Sermon on the Mount, Jesus had addressed hypocritical behaviors (such as ostentatious prayer and fasting in Matthew 6). Now, in Matthew 7, He turns to **interpersonal relationships among His followers**.  
@@ -310,7 +285,7 @@
 
 ---
 
-## Stay Alert: Be Ready for Christs Return (Matthew 24:42-44)
+## Stay Alert: Be Ready for Christ’s Return (Matthew 24:42-44)
 
 **Context:**  
 - In the Olivet Discourse about the end of the age, after describing various signs and tribulations, Jesus emphasized the **unknown timing** of His Second Coming. <span style="color:red">Of that day and hour knoweth no man… but my Father only</span> (Matthew 24:36). He compared the suddenness of His coming to the days of Noah when people were caught unaware by the Flood (Matthew 24:37-39).  
@@ -340,7 +315,7 @@
 
 ---
 
-## Remember Lots Wife (Luke 17:32)
+## Remember Lot’s Wife (Luke 17:32)
 
 **Context:**  
 - Jesus, speaking about the coming of the Kingdom and the revealing of the Son of Man, used examples from history to illustrate how sudden that Day will be. He mentioned the days of Noah and the days of Lot – people were carrying on with normal life until disaster struck (Luke 17:26-30).  
@@ -355,7 +330,7 @@
 
 ---
 
-## Sin No More Lest a Worse Thing Come unto Thee (John 5:14)
+## Sin No More, Lest a Worse Thing Come unto Thee (John 5:14)
 
 **Context:**  
 - In John 5, Jesus healed a man who had been an invalid for 38 years by the Pool of Bethesda. Jesus commanded him, <span style="color:red">Rise, take up thy bed, and walk,</span> and the man was instantly cured (John 5:8-9). This miracle took place on the Sabbath, which led to controversy with the Jewish authorities.  
@@ -370,7 +345,7 @@
 
 ---
 
-## If Ye Believe Not Ye Shall Die in Your Sins (John 8:24)
+## If Ye Believe Not, Ye Shall Die in Your Sins (John 8:24)
 
 **Context:**  
 - In John 8, Jesus was speaking in the Temple treasury to a group that included Pharisees and other Jews. He made bold claims about His identity (such as <span style="color:red">I am the light of the world</span> in John 8:12) and about His relationship with the Father. The Jewish leaders were skeptical and hostile, asking, <span style="color:red">Who art thou?</span> (John 8:25).  
@@ -400,7 +375,7 @@
 
 ---
 
-## Final Exhortation: Heed Jesuss Warnings
+## Final Exhortation: Heed Jesus’s Warnings
 
 Jesus Christ’s warnings across the four Gospels cover a wide range of spiritual dangers – from hypocrisy and pride, to unbelief, greed, lack of readiness, and more. Each warning comes with both an **immediate context** and an enduring lesson for us today. Taken together, they call us to:
 
