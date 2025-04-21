@@ -96,11 +96,3 @@ Repeat the same structure for each promise:
 4. **Fulfillment**: Include examples of how or when the promise has been fulfilled, with supporting Bible verses hyperlinked to sources.
 
 ---
-
-### Continue to Style and Organize
-- Use `#` for main sections, `###` for subheadings, and consistent line breaks.
-- Add hyperlinks for Bible verses.
-- Use blockquotes `>` for direct Bible quotations.
-- Format inline references with parentheses for clickable links.
-
-This structure ensures readability and clear organization for a GitHub Markdown file.
