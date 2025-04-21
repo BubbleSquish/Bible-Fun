@@ -1,6 +1,3 @@
-- ![image](https://github.com/user-attachments/assets/20f77b46-d017-4704-a6d8-d862fbabf1e2)
-
-
 - **[Biblical-Theories.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical-Theories.md)**  
 This document explores the Christological significance of apocryphal books removed from the 1611 King James Bible It presents theories on how texts like 1 Esdras and 2 Esdras foreshadow Christ's role and mission, highlighting themes such as the supremacy of truth (Jesus) and apocalyptic visions. Essentially, this document may be viewed as World of Warcraft if it were a book, it's just a lot of dreams from people and stuff about dragons. It holds some relivence, and should be known. In my opinion, it gives those the opportunity that are caught with irrelivent fiction, fairytales, and _imagination_ to get closer to the the documented truth mentioned below. 👇
 
