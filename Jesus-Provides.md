@@ -1,12 +1,3 @@
-Understood. I will compile a structured list of all the promises Jesus personally spoke throughout the Gospels (KJV), each written in quotes. For each promise, I will provide:
-
-- A short explanation of the promise.
-- A brief summary of three events that occurred directly before Jesus made the promise (for context).
-- An example from anywhere in the KJV Bible showing how or when that promise was fulfilled.
-
-All of this will be presented in clean markdown format using King James language.
-I’ll begin the task now and notify you when the full document is ready.
-
 # Promises Jesus Made in the Gospels (KJV)
 
 ## Promises of Blessings and Eternal Rewards
