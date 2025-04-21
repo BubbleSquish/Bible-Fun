@@ -87,12 +87,3 @@ In the New Testament, people like Zacchaeus and Cornelius, who longed for righte
 This demonstrates God’s faithfulness in filling the hungry with good things.
 
 ---
-
-## Structure for the Remaining Sections
-Repeat the same structure for each promise:
-1. **Promise** (quoted text, bolded): Write the promise Jesus made.
-2. **Meaning**: Brief explanation of the promise.
-3. **Context**: Provide the three events that occurred before the promise.
-4. **Fulfillment**: Include examples of how or when the promise has been fulfilled, with supporting Bible verses hyperlinked to sources.
-
----
