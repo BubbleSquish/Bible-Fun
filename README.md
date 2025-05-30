@@ -10,3 +10,5 @@ A compilation of warnings issued by Jesus in the Four Gospels (KJV), providing c
 
 - **[Jesus-Promises.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Promises.md)**  
 This document refrences the solutions Jesus provides. 📕
+
+- **[Revelation.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Revelation.md)**  
