@@ -12,4 +12,4 @@ A compilation of warnings issued by Jesus in the Four Gospels (KJV), providing c
 This document refrences the solutions Jesus provides. 📕
 
 - **[Revelation.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Revelation.md)**  
-Revlation. This document is about Revelation, what is to come.
+Revlation. This document is about Revelation, what is to come. 📖
