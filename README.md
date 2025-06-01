@@ -11,8 +11,8 @@ A compilation of warnings issued by Jesus in the Four Gospels (KJV), providing c
 - **[Jesus-Promises.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Promises.md)**  
 This document refrences the solutions Jesus provides. 📕
 
-- **[Revelation.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Revelation.md)**  
+- **[The-Book-of-Revelation.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Revelation.md)**  
 Revlation. This document is about Revelation. What is to come? 📖
 
-- **[Psalms.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Psalms.md)**  
+- **[The-Book-of-Psalms.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Psalms.md)**  
 The Book of Psalms. This document is about The Book of Psalms. Cheatcodes for getting through revelation. 📚
