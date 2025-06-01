@@ -13,3 +13,6 @@ This document refrences the solutions Jesus provides. 📕
 
 - **[Revelation.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Revelation.md)**  
 Revlation. This document is about Revelation. What is to come? 📖
+
+- **[Psalms.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Psalms.md)**  
+The Book of Psalms. This document is about The Book of Psalms. This is like a cheatsheet for getting through revelation. 📖
