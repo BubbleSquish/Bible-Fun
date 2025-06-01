@@ -2,26 +2,55 @@
   <img src="https://github.com/user-attachments/assets/ed07f7a8-df07-4c00-a7cb-ff6b5a8cef62" />
 </p>
 
-- **[Biblical-Theories.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical-Theories.md)**  
+---
 
-This document explores the Christological significance of apocryphal books removed from the 1611 King James Bible It presents theories on how texts like 1 Esdras and 2 Esdras foreshadow Christ's role and mission, highlighting themes such as the supremacy of truth (Jesus) and apocalyptic visions. Essentially, this document may be viewed as World of Warcraft if it were a book, it's just a lot of dreams from people and stuff about dragons. It holds some relivence, and should be known. In my opinion, it gives those the opportunity that are caught with irrelivent fiction, fairytales, and _imagination_ to get closer to the the documented truth mentioned below. 👇
+## 📘 Bible-Fun Collection Index
 
-- **[Jesus-Warns.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Warns.md)**  
+A set of documents that explore, simplify, and connect the biblical warnings, promises, and apocalyptic visions — KJV style, no fluff.
 
-A compilation of warnings issued by Jesus in the Four Gospels (KJV), providing context and explanations for each Topics include cautions against false prophets and the importance of true discipleship, emphasizing the need for vigilance and discernment in spiritual matters. 📓
+---
 
-- **[Simplified.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Simplified.md)**
+### 🐉 [**Biblical-Theories.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical-Theories.md)
 
-The whole bible if it were a TL;DR.
+> *“What if World of Warcraft had dragons, visions, and also pointed to Christ?”*
 
-- **[Jesus-Promises.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Promises.md)**  
+This doc breaks down the **apocryphal books** (like 1 & 2 Esdras) removed from the 1611 KJV. It unpacks their **Christological themes**, the supremacy of truth (Jesus), and prophetic dreams.  
+⚔️ Think of it as dream-lore with just enough **relevance** to redirect fantasy lovers back toward Scripture.
 
-This document refrences the solutions Jesus provides. 📕
+---
 
-- **[The-Book-of-Revelation.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Revelation.md)**  
+### ⚠️ [**Jesus-Warns.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Warns.md)
 
-Revelation. This document is about Revelation. What is to come? 📖
+A full list of Jesus’ **warnings** in the Four Gospels (KJV). Covers false prophets, fake disciples, and spiritual traps.  
+🧠 Use this if you’re serious about **discernment**.
 
-- **[The-Book-of-Psalms.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Psalms.md)**  
+---
 
-The Book of Psalms. This document is about The Book of Psalms. Cheatcodes for getting through revelation. 📚
+### 🔎 [**Simplified.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Simplified.md)
+
+The **TL;DR Bible**. No commentary. No side quests.  
+Just Scripture, **compressed**.
+
+---
+
+### ✅ [**Jesus-Promises.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Promises.md)
+
+Every promise Jesus made. The **solutions** to every warning.  
+📕 A counterbalance to the judgment.
+
+---
+
+### 🔥 [**The-Book-of-Revelation.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Revelation.md)
+
+The **endgame**. Everything that’s coming.  
+Dragons, wrath, salvation. No filters. 📖
+
+---
+
+### 🎯 [**The-Book-of-Psalms.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Psalms.md)
+
+A breakdown of Psalms — the **original cheat codes** for surviving Revelation.  
+Songs of trust. Cries of war.  
+📚 Battle hymns for the remnant.
+
+---
