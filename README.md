@@ -8,6 +8,9 @@ This document explores the Christological significance of apocryphal books remov
 - **[Jesus-Warns.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Warns.md)**  
 A compilation of warnings issued by Jesus in the Four Gospels (KJV), providing context and explanations for each Topics include cautions against false prophets and the importance of true discipleship, emphasizing the need for vigilance and discernment in spiritual matters. 📓
 
+- **[Simplified.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Simplified.md)**
+The Bible as a TL;DR. (Too long; Didn't read)
+
 - **[Jesus-Promises.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Promises.md)**  
 This document refrences the solutions Jesus provides. 📕
 
