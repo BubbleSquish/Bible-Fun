@@ -20,7 +20,7 @@ This document refrences the solutions Jesus provides. 📕
 
 - **[The-Book-of-Revelation.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Revelation.md)**  
 
-Revlation. This document is about Revelation. What is to come? 📖
+Revelation. This document is about Revelation. What is to come? 📖
 
 - **[The-Book-of-Psalms.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Psalms.md)**  
 
