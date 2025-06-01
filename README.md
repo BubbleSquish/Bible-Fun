@@ -12,7 +12,7 @@ A compilation of warnings issued by Jesus in the Four Gospels (KJV), providing c
 
 - **[Simplified.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Simplified.md)**
 
-The Bible as a TL;DR. (Too long; Didn't read)
+The whole bible if it were a TL;DR.
 
 - **[Jesus-Promises.md](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Promises.md)**  
 
