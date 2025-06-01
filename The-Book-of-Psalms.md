@@ -1,7 +1,3 @@
-Understood. I will compile every divine warning, judgment, and condemnation found in the Book of Psalms (KJV), structured like the Jesus Warnings document — in GitHub-ready markdown format.
-
-Each warning will include verse reference, plain meaning, context, and any applicable cross-references. Once completed, it will be boxed, formatted, and ready for copy-paste into a README.md file.
-
 
 # Divine Warnings & Judgments in Psalms (KJV)
 
