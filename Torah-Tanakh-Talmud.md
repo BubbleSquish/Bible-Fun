@@ -1,13 +1,3 @@
-Understood. I will compile a GitHub-ready README.md-formatted document that includes every warning believed to be given by Yeshua (Jesus Christ) as recorded or interpreted from the Torah, Tanakh, and Talmud.
-
-This will include:
-
-* Direct and indirect references or typologies as interpreted by Christian, Messianic, and traditional Jewish perspectives.
-* Interpretations from theological, historical, and rabbinical sources.
-
-I’ll structure it with a clear reference table at the top and detailed entries below it. I’ll let you know as soon as the research is complete.
-
-
 # Warnings by Yeshua in Torah, Tanakh, and Talmud
 
 | **Warning Topic**              | **Verse or Source**               | **Summary of Warning**                                                                                                                                                                         | **Context / Recipient**                                                                                                                                                                                                                                                                                                                         |
