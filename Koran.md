@@ -1,8 +1,3 @@
-Understood. I will compile a GitHub-ready `README.md`-formatted document featuring every warning directly spoken by Jesus Christ in the Quran, using a single, clear English translation. The document will include a reference table at the top and expanded entries below with verse, explanation, and context.
-
-I'll begin the research and let you know as soon as it's ready.
-
-
 # Warnings of Jesus Christ (ʿĪsā ibn Maryam) in the Quran
 
 In the Quran, Jesus (ʿĪsā ibn Maryam) delivers several **warnings** and admonitions directly in speech. These include moral exhortations, theological warnings about God’s oneness, and eschatological cautions about the afterlife. Below is a compilation of every warning **spoken by Jesus** in the Quran (English, Sahih International translation), organized by topic. A reference table is provided for quick overview, followed by detailed explanations of each verse, including context (who was being warned and why), and relevant cross-references.
