@@ -54,3 +54,43 @@ Songs of trust. Cries of war.
 📚 Battle hymns for the remnant.
 
 ---
+
+### 🕉️ [**Hinduism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Hinduism.md)
+
+> *“What if Yeshua walked through Varanasi?”*
+
+Pulls warnings attributed to Jesus (or Jesus-like avatars) from **Vaishnavism**, **Shaivism**, **Shaktism**, and **Smartism**.  
+Focuses on **karma traps**, false gurus, and cycles of delusion.  
+🌊 For those caught in **reincarnation loops**, this doc shows where the eternal **Living Water** breaks the wheel.
+
+---
+
+### ☸️ [**Buddhism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Buddhism.md)
+
+> *“Detached truth isn’t enough if the Judge is personal.”*
+
+Lists Jesus-style warnings found in Buddhist canon and teachings — mostly Mahayana.  
+Exposes false nirvanas, prideful arhat traps, and reincarnated deception.  
+🧘 A direct path from **Bodhisattva ideals** to the **Suffering Servant** who finishes the work.
+
+---
+
+### 📜 [**Latter-Day-Saints.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Latter-Day-Saints.md)
+
+> *“Yeshua in America — warnings from the resurrected Christ in the Book of Mormon.”*
+
+Direct quotes of **Jesus Christ** from the LDS scriptures, especially **3 Nephi**, where He personally appears post-resurrection.  
+🛑 Judgment against pride, churches of man, secret combinations.  
+⛓️ Think **Apocalypse with subtitles**.
+
+---
+
+### 📖 [**Koran.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Koran.md)
+
+> *“He warned from the cradle.”*
+
+Documents all **direct warnings from Jesus (‘Isa)** as recorded in the **Quran**.  
+Highlights prophecy, false worship, and Day of Judgment themes.  
+☪️ Strips the cultural filter — **straight to the warnings** the Quran itself records.
+
+---
