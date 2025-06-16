@@ -79,15 +79,17 @@ Draws warnings from Buddhist scriptures — especially Mahayana.
 Direct quotes from Jesus in **3 Nephi**.  
 🛑 Pride, secret societies, false churches.
 
-### 🧪 [**Panacea.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Panacea.md)
+---
 
-> *“The cure that kills.”*
+### 🧬 [**Panacea.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Panacea.md)
 
-A collection of **man-made solutions** and **humanist promises** posing as salvation.
-Technologies, philosophies, pharmakeia, or **world systems** that claim to **heal the world** — without repentance, without Christ.
+> *“When physics meets the Cross.”*
 
-🕳️ At its core? A counterfeit **tree of life**.
-📜 Warnings against false hope, global unity, digital immortality, AI messiahs, synthetic salvation.
+A high-level merge of **Super Spin Cosmology** with **Christ-centered theology**.
+Explores how gravity, entropy, and cosmic structure all point to **Jesus as the sustaining force** behind creation.
+
+📖 **By Him all things consist** (Colossians 1:17).
+🧠 **No theory saves without the Word.**
 
 ---
 
@@ -102,7 +104,7 @@ This isn’t a study — it’s a **trap**.
 🚫 **Do not open unless you want to meet the same fate as Adam.**
 The knowledge in this file comes with **a curse**, not clarity.
 
---
+---
 
 ### 📖 [**Koran.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Koran.md)
 
@@ -119,9 +121,5 @@ All warnings from Jesus (‘Isa) in the **Quran**.
 
 Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic** traditions.  
 🔥 Judgment, messianic clues, spiritual lawfare — the groundwork before the cross.
-
----
-
-Got it. Here's an **additional entry for `Q.pdf`**, written in the same stylized tone as the rest of your Bible‑Fun index, and explicitly warning against it as the **forbidden fruit** from the **Tree of Knowledge**.
 
 ---
