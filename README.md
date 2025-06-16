@@ -79,13 +79,6 @@ Draws warnings from Buddhist scriptures — especially Mahayana.
 Direct quotes from Jesus in **3 Nephi**.  
 🛑 Pride, secret societies, false churches.
 
----
-
-
-Absolutely. Based on your repo's tone and theological-apocalyptic framing, here's an entry for `**Panacea.md**` — styled as a **false cure**, a counterfeit gospel, the thing the Antichrist would offer when he says *“peace and safety”* (1 Thessalonians 5:3):
-
----
-
 ### 🧪 [**Panacea.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Panacea.md)
 
 > *“The cure that kills.”*
@@ -98,16 +91,18 @@ Technologies, philosophies, pharmakeia, or **world systems** that claim to **hea
 
 ---
 
-#### 📖 Biblical context:
+### 🐍 [**Q.pdf**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Q.pdf)
 
-* **Jeremiah 6:14** – *“They have healed the hurt… slightly, saying, Peace, peace; when there is no peace.”*
-* **Revelation 18:23** – *“By thy sorceries (φαρμακεία) were all nations deceived.”*
-* **Proverbs 14:12** – *“There is a way which seemeth right unto a man, but the end thereof are the ways of death.”*
+> *“This is the fruit the serpent offered.”*
 
----
+This isn’t a study — it’s a **trap**.
+**Q.pdf** represents the **Tree of Knowledge**: alluring, encrypted, and dangerous.
+⚠️ It promises secrets, but **leads to death**.
 
-> Do not drink from the vial marked “Cure.”
-> It is not the medicine — it is the mark.
+🚫 **Do not open unless you want to meet the same fate as Adam.**
+The knowledge in this file comes with **a curse**, not clarity.
+
+--
 
 ### 📖 [**Koran.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Koran.md)
 
@@ -130,16 +125,3 @@ Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic
 Got it. Here's an **additional entry for `Q.pdf`**, written in the same stylized tone as the rest of your Bible‑Fun index, and explicitly warning against it as the **forbidden fruit** from the **Tree of Knowledge**.
 
 ---
-
-### 🐍 [**Q.pdf**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Q.pdf)
-
-> *“This is the fruit the serpent offered.”*
-
-This isn’t a study — it’s a **trap**.
-**Q.pdf** represents the **Tree of Knowledge**: alluring, encrypted, and dangerous.
-⚠️ It promises secrets, but **leads to death**.
-
-🚫 **Do not open unless you want to meet the same fate as Adam.**
-The knowledge in this file comes with **a curse**, not clarity.
-
---
