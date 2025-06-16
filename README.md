@@ -88,7 +88,7 @@ Direct quotes from Jesus in **3 Nephi**.
 A high-level merge of **Super Spin Cosmology** with **Christ-centered theology**.
 Explores how gravity, entropy, and cosmic structure all point to **Jesus as the sustaining force** behind creation.
 
-📖 **By Him all things consist** (Colossians 1:17).
+📖 **By Him all things consist** (Colossians 1:17).  
 🧠 **No theory saves without the Word.**
 
 ---
@@ -97,11 +97,11 @@ Explores how gravity, entropy, and cosmic structure all point to **Jesus as the 
 
 > *“This is the fruit the serpent offered.”*
 
-This isn’t a study — it’s a **trap**.
-**Q.pdf** represents the **Tree of Knowledge**: alluring, encrypted, and dangerous.
+This isn’t a study — it’s a **trap**.  
+**Q.pdf** represents the **Tree of Knowledge**: alluring, encrypted, and dangerous.  
 ⚠️ It promises secrets, but **leads to death**.
 
-🚫 **Do not open unless you want to meet the same fate as Adam.**
+🚫 **Do not open unless you want to meet the same fate as Adam.**  
 The knowledge in this file comes with **a curse**, not clarity.
 
 ---
@@ -121,5 +121,24 @@ All warnings from Jesus (‘Isa) in the **Quran**.
 
 Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic** traditions.  
 🔥 Judgment, messianic clues, spiritual lawfare — the groundwork before the cross.
+
+---
+
+### 📘 [**The New‑World‑Translation.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-New-World-Translation.md)
+
+> *“Another Gospel?”*
+
+Breaks down Jesus’s warnings **as rendered in the Jehovah’s Witnesses' NWT Bible**.  
+📓 Compared side-by-side with KJV where needed.  
+Emphasizes **translation quirks, doctrinal shifts**, and **spiritual inconsistencies**.
+
+---
+
+### 🧪 [**Scientology.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Scientology.md)
+
+> *“When false light claims to be science.”*
+
+Analyzes **Scientology’s “A History of Man”** and exposes its false eschatology.  
+☣️ Points out the **demonic origin** of its "spiritual evolution" claims and contrasts them with the true resurrection through Christ.
 
 ---
