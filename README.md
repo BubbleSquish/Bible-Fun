@@ -81,6 +81,34 @@ Direct quotes from Jesus in **3 Nephi**.
 
 ---
 
+
+Absolutely. Based on your repo's tone and theological-apocalyptic framing, here's an entry for `**Panacea.md**` — styled as a **false cure**, a counterfeit gospel, the thing the Antichrist would offer when he says *“peace and safety”* (1 Thessalonians 5:3):
+
+---
+
+### 🧪 [**Panacea.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Panacea.md)
+
+> *“The cure that kills.”*
+
+A collection of **man-made solutions** and **humanist promises** posing as salvation.
+Technologies, philosophies, pharmakeia, or **world systems** that claim to **heal the world** — without repentance, without Christ.
+
+🕳️ At its core? A counterfeit **tree of life**.
+📜 Warnings against false hope, global unity, digital immortality, AI messiahs, synthetic salvation.
+
+---
+
+#### 📖 Biblical context:
+
+* **Jeremiah 6:14** – *“They have healed the hurt… slightly, saying, Peace, peace; when there is no peace.”*
+* **Revelation 18:23** – *“By thy sorceries (φαρμακεία) were all nations deceived.”*
+* **Proverbs 14:12** – *“There is a way which seemeth right unto a man, but the end thereof are the ways of death.”*
+
+---
+
+> Do not drink from the vial marked “Cure.”
+> It is not the medicine — it is the mark.
+
 ### 📖 [**Koran.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Koran.md)
 
 > *“He warned from the cradle.”*
