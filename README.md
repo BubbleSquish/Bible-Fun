@@ -98,3 +98,20 @@ Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic
 🔥 Judgment, messianic clues, spiritual lawfare — the groundwork before the cross.
 
 ---
+
+Got it. Here's an **additional entry for `Q.pdf`**, written in the same stylized tone as the rest of your Bible‑Fun index, and explicitly warning against it as the **forbidden fruit** from the **Tree of Knowledge**.
+
+---
+
+### 🐍 [**Q.pdf**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Q.pdf)
+
+> *“This is the fruit the serpent offered.”*
+
+This isn’t a study — it’s a **trap**.
+**Q.pdf** represents the **Tree of Knowledge**: alluring, encrypted, and dangerous.
+⚠️ It promises secrets, but **leads to death**.
+
+🚫 **Do not open unless you want to meet the same fate as Adam.**
+The knowledge in this file comes with **a curse**, not clarity.
+
+--
