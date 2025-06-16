@@ -19,38 +19,12 @@ Breaks down **apocryphal books** (like 1 & 2 Esdras) removed from the 1611 KJV.
 
 ---
 
-### ⚠️ [**Jesus‑Warns.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Warns.md)
+### ☸️ [**Buddhism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Buddhism.md)
 
-A complete list of Jesus’ **warnings** in the Four Gospels (KJV).  
-🧠 Covers false prophets, fake disciples, spiritual traps.
+> *“Detached truth isn’t enough if the Judge is personal.”*
 
----
-
-### ✅ [**Jesus‑Promises.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Promises.md)
-
-All of Jesus’ **promises** — the counterbalance to judgment.  
-📕 Encouragement for the faithful.
-
----
-
-### 🔥 [**The‑Book‑of‑Revelation.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Revelation.md)
-
-The **endgame**. Dragons, wrath, salvation — full apocalyptic vision.  
-📖 No filters.
-
----
-
-### 🎯 [**The‑Book‑of‑Psalms.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Psalms.md)
-
-Battle hymns of the remnant.  
-📚 Trust, war cries, survival scripts for Revelation.
-
----
-
-### 🔎 [**Simplified.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Simplified.md)
-
-The **TL;DR Bible**. No commentary, no fluff.  
-Just raw, compressed Scripture.
+Draws warnings from Buddhist scriptures — especially Mahayana.  
+🧘 From **Bodhisattva ideals** to the **Suffering Servant**.
 
 ---
 
@@ -63,12 +37,26 @@ Pulls Jesus‑style warnings from **Vaishnavism**, **Shaivism**, and more.
 
 ---
 
-### ☸️ [**Buddhism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Buddhism.md)
+### ✅ [**Jesus‑Promises.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Promises.md)
 
-> *“Detached truth isn’t enough if the Judge is personal.”*
+All of Jesus’ **promises** — the counterbalance to judgment.  
+📕 Encouragement for the faithful.
 
-Draws warnings from Buddhist scriptures — especially Mahayana.  
-🧘 From **Bodhisattva ideals** to the **Suffering Servant**.
+---
+
+### ⚠️ [**Jesus‑Warns.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Jesus-Warns.md)
+
+A complete list of Jesus’ **warnings** in the Four Gospels (KJV).  
+🧠 Covers false prophets, fake disciples, spiritual traps.
+
+---
+
+### 📖 [**Koran.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Koran.md)
+
+> *“He warned from the cradle.”*
+
+All warnings from Jesus (‘Isa) in the **Quran**.  
+☪️ Prophecy, false worship, final judgment.
 
 ---
 
@@ -85,7 +73,7 @@ Direct quotes from Jesus in **3 Nephi**.
 
 > *“When physics meets the Cross.”*
 
-A high-level merge of **Super Spin Cosmology** with **Christ-centered theology**.
+A high-level merge of **Super Spin Cosmology** with **Christ-centered theology**.  
 Explores how gravity, entropy, and cosmic structure all point to **Jesus as the sustaining force** behind creation.
 
 📖 **By Him all things consist** (Colossians 1:17).  
@@ -106,21 +94,28 @@ The knowledge in this file comes with **a curse**, not clarity.
 
 ---
 
-### 📖 [**Koran.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Koran.md)
+### 🧾 [**README.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/README.md)
 
-> *“He warned from the cradle.”*
+> *“You’re reading it.”*
 
-All warnings from Jesus (‘Isa) in the **Quran**.  
-☪️ Prophecy, false worship, final judgment.
+This file serves as the index for the entire **Bible-Fun** project.  
+📂 It contains **descriptions, warnings, and summaries** of all included `.md` files.
 
 ---
 
-### ✡️ [**Torah‑Tanakh‑Talmud.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Torah-Tanakh-Talmud.md)
+### 🧪 [**Scientology.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Scientology.md)
 
-> *“Before Abraham was, I AM.”*
+> *“When false light claims to be science.”*
 
-Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic** traditions.  
-🔥 Judgment, messianic clues, spiritual lawfare — the groundwork before the cross.
+Analyzes **Scientology’s “A History of Man”** and exposes its false eschatology.  
+☣️ Points out the **demonic origin** of its "spiritual evolution" claims and contrasts them with the true resurrection through Christ.
+
+---
+
+### 🔎 [**Simplified.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Simplified.md)
+
+The **TL;DR Bible**. No commentary, no fluff.  
+Just raw, compressed Scripture.
 
 ---
 
@@ -134,11 +129,25 @@ Emphasizes **translation quirks, doctrinal shifts**, and **spiritual inconsisten
 
 ---
 
-### 🧪 [**Scientology.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Scientology.md)
+### 🎯 [**The‑Book‑of‑Psalms.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Psalms.md)
 
-> *“When false light claims to be science.”*
+Battle hymns of the remnant.  
+📚 Trust, war cries, survival scripts for Revelation.
 
-Analyzes **Scientology’s “A History of Man”** and exposes its false eschatology.  
-☣️ Points out the **demonic origin** of its "spiritual evolution" claims and contrasts them with the true resurrection through Christ.
+---
+
+### 🔥 [**The‑Book‑of‑Revelation.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/The-Book-of-Revelation.md)
+
+The **endgame**. Dragons, wrath, salvation — full apocalyptic vision.  
+📖 No filters.
+
+---
+
+### ✡️ [**Torah‑Tanakh‑Talmud.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Torah-Tanakh-Talmud.md)
+
+> *“Before Abraham was, I AM.”*
+
+Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic** traditions.  
+🔥 Judgment, messianic clues, spiritual lawfare — the groundwork before the cross.
 
 ---
