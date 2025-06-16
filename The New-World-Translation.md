@@ -1,10 +1,3 @@
-Got it. I’ll compile every recorded warning given by Jesus Christ in the New World Translation of the Holy Scriptures (NWT), presented in a GitHub-ready Markdown format.
-
-The document will begin with a clean, scannable reference table listing each warning’s topic, verse reference, summary, and intended audience. Each entry will then be expanded below the table with the full NWT verse, meaning, and context.
-
-I’ll let you know as soon as the document is ready for review.
-
-
 # Warnings of Jesus Christ (NWT)
 
 **Note:** All quotations are from the *New World Translation of the Holy Scriptures*. This compilation focuses on warnings spoken directly by Jesus in the New Testament. The reference table below summarizes each warning by topic, verse, meaning, and context. Detailed entries follow, including the full scripture text (in **bold**), an explanation of its meaning, context (audience and situation), and any parallel passages in the Gospels.
