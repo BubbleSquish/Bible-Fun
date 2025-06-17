@@ -81,6 +81,15 @@ Explores how gravity, entropy, and cosmic structure all point to **Jesus as the 
 
 ---
 
+### 🛡️ [**Protection.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Protection.md)
+
+> *“Armor up.”*
+
+Spiritual survival manual.  
+🪖 Verses and strategies for resisting **temptation**, **demonic intrusion**, and **spiritual warfare** — in the name and authority of Jesus.
+
+---
+
 ### 🐍 [**Q.pdf**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Q.pdf)
 
 > *“This is the fruit the serpent offered.”*
@@ -103,12 +112,30 @@ This file serves as the index for the entire **Bible-Fun** project.
 
 ---
 
+### 🩸 [**Satanism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Satanism.md)
+
+> *“The Biblical Roast of Occultism.”*
+
+Breaks down the **claims, traps, and rituals** of Satanic thought and symbolism.  
+🎭 Everything Satan touches is a **parody** of God — this file exposes how.
+
+---
+
 ### 🧪 [**Scientology.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Scientology.md)
 
 > *“When false light claims to be science.”*
 
 Analyzes **Scientology’s “A History of Man”** and exposes its false eschatology.  
 ☣️ Points out the **demonic origin** of its "spiritual evolution" claims and contrasts them with the true resurrection through Christ.
+
+---
+
+### 🏯 [**Shinto.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Shinto.md)
+
+> *“Clean hands, but what about the heart?”*
+
+Parallels between **Shinto moral teachings** and the **teachings of Jesus Christ**.  
+🧼 Emphasizes **ritual purity** versus the Gospel’s emphasis on **inner righteousness**.
 
 ---
 
