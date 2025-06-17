@@ -28,11 +28,6 @@ Warnings in Jesus’ teachings seen through Buddhist parallels—
 
 ---
 
-Want it more cutting? More theological? Just say the word.
-
-
----
-
 ### 🕉️ [**Hinduism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Hinduism.md)
 
 > *“What if Yeshua walked through Varanasi?”*
