@@ -23,8 +23,13 @@ Breaks down **apocryphal books** (like 1 & 2 Esdras) removed from the 1611 KJV.
 
 > *“Detached truth isn’t enough if the Judge is personal.”*
 
-Draws warnings from Buddhist scriptures — especially Mahayana.  
-🧘 From **Bodhisattva ideals** to the **Suffering Servant**.
+Warnings in Jesus’ teachings seen through Buddhist parallels—
+🧘 From **emptiness and illusion** to the **Suffering Servant**.
+
+---
+
+Want it more cutting? More theological? Just say the word.
+
 
 ---
 
