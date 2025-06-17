@@ -86,7 +86,7 @@ Explores how gravity, entropy, and cosmic structure all point to **Jesus as the 
 > *“Armor up.”*
 
 Spiritual survival manual.  
-🪖 Verses and strategies for resisting **temptation**, **demonic intrusion**, and **spiritual warfare** — in the name and authority of Jesus.
+🪖 Psalm 91, for resisting **temptation**, **demonic intrusion**, and **spiritual warfare** — in the name and authority of Jesus.
 
 ---
 
