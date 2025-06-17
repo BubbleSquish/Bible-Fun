@@ -1,5 +1,3 @@
----
-
 # ⚔️ **THE FINAL WARNING**
 
 ### 🔥 *To All Who Have Dared To Toy With Darkness*
