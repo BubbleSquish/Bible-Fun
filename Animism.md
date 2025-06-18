@@ -1,10 +1,3 @@
-Understood. I’ll compile a pan-African overview of animist belief systems, focusing on spiritual warnings, taboos, and moral codes, and analyze how these align or contrast with the teachings and warnings of Jesus in the Bible.
-
-I'll organize this using a GitHub-style markdown format with a reference table and expanded entries below, highlighting moral, spiritual, and behavioral warnings in African animism that show clear similarities to Jesus’s teachings.
-
-I’ll update you once the document is ready.
-
-
 # Major African Animist Warnings and their Biblical Parallels
 
 In many traditional African animist cultures, moral and spiritual **warnings** or taboos guide behavior and maintain social harmony. These oral teachings often align with principles that Jesus taught in the Bible. The table below summarizes key warnings from various African traditions alongside Jesus’s similar teachings, followed by detailed explanations for each.
