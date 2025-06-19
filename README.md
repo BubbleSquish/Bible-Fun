@@ -206,10 +206,6 @@ Explores how gravity, entropy, and cosmic structure all point to **Jesus as the 
 
 ---
 
-Here’s a shortened beginner-friendly entry for your README:
-
----
-
 ### 🧠 [**Pineal-Gland.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Pineal-Gland.md)
 
 > *“If thine eye be single, thy whole body shall be full of light.”* — *Matthew 6:22*
