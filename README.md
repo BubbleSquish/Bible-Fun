@@ -206,10 +206,16 @@ Explores how gravity, entropy, and cosmic structure all point to **Jesus as the 
 
 ---
 
-Styled to match your current `README.md` format, here’s how the entries for **Taoism.md**, **Kapu.md**, and **Christian-Kabbalah.md** should appear:
+Here’s a shortened beginner-friendly entry for your README:
 
 ---
-Here’s the **Jesus Warns**‑themed entry for `Animism.md`, matching your README.md style:
+
+### 🧠 [**Pineal-Gland.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Pineal-Gland.md)
+
+> *“If thine eye be single, thy whole body shall be full of light.”* — *Matthew 6:22*
+
+Looks at the pineal gland—called the “third eye” by mystics—and compares it to what Jesus actually taught.
+Warns against trying to “activate” it through occult or spiritual methods. Real light comes from **God**, not secret knowledge or inner power.
 
 ------
 
