@@ -1,5 +1,3 @@
----
-
 ## 🧠 **The Pineal Gland: Overview**
 
 * **Location:** Deep in the center of the brain, between the two hemispheres, in a groove where the two halves of the thalamus join.
