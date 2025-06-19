@@ -178,3 +178,34 @@ Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic
 🔥 Judgment, messianic clues, spiritual lawfare — the groundwork before the cross.
 
 ---
+
+Styled to match your current `README.md` format, here’s how the entries for **Taoism.md**, **Kapu.md**, and **Christian-Kabbalah.md** should appear:
+
+---
+
+### ☯️ [**Taoism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Taoism.md)
+
+> *“The Way meets the Truth.”*
+
+Draws parallels between **Taoist harmony** and **Jesus’ spiritual warnings**.
+🌪️ The Tao flows — but the **narrow way** leads to life.
+
+---
+
+### 🌋 [**Kapu.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Kapu.md)
+
+> *“Taboo laws meet the Word made flesh.”*
+
+Jesus and the **Kapu code** both warn of sacred trespass.
+🚷 From ancient taboos to divine judgment — sin still costs blood.
+
+---
+
+### ✝️ [**Christian-Kabbalah.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Christian-Kabbalah.md)
+
+> *“Mysticism, mastered by the Messiah.”*
+
+A **Christ-approved guide** to spiritual mysteries.
+🔮 No sephirot without the **Light of the World**.
+
+---
