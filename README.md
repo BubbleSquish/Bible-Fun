@@ -209,3 +209,15 @@ A **Christ-approved guide** to spiritual mysteries.
 🔮 No sephirot without the **Light of the World**.
 
 ---
+Here’s the **Jesus Warns**‑themed entry for `Animism.md`, matching your README.md style:
+
+---
+
+### 🌿 [**Animism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Animism.md)
+
+> *“Spirits in trees — but who made the Tree?”*
+
+Compares **animistic reverence** with Jesus’ warnings against **idolatry** and **false spirits**.
+🌳 Nature speaks — but only **One voice** commands the wind.
+
+---
