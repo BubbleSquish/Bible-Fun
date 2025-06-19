@@ -1,5 +1,3 @@
-The **pineal gland** and **DMT (dimethyltryptamine)** are subjects of great interest in neuroscience, psychology, and even mysticism. While both are scientifically intriguing, they’ve also been heavily mythologized—sometimes far beyond what evidence supports. Here's a grounded, yet comprehensive overview:
-
 ---
 
 ## 🧠 **The Pineal Gland: Overview**
