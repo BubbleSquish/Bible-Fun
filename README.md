@@ -172,7 +172,7 @@ Draws parallels between **Taoist harmony** and **Jesus’ spiritual warnings**.
 
 ---
 
-### ✡️ [**Torah‑Tanakh‑Talmud.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Torah-Tanakh-Talmud.md)
+### ✡️ [**Judaism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Judaism.md)
 
 > *“Before Abraham was, I AM.”*
 
