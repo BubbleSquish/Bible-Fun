@@ -102,7 +102,7 @@ Warnings in Jesus’ teachings seen through Buddhist parallels—
 
 ### 🕉️ [**Hinduism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Hinduism.md)
 
-> *“What if Yeshua walked through Varanasi?”*
+> *“What if Yeshua (Jesus) walked through Varanasi?”*
 
 Pulls Jesus‑style warnings from **Vaishnavism**, **Shaivism**, and more.  
 🌊 The **Living Water** breaks the cycle of karma.
@@ -129,7 +129,7 @@ All warnings from Jesus (‘Isa) in the **Quran**.
 
 ### 📜 [**Ladder‑Day‑Saints.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Ladder-Day-Saints.md)
 
-> *“Yeshua in America — warnings from the resurrected Christ in the Book of Mormon.”*
+> *“Yeshua (Jesus) in America — warnings from the resurrected Christ in the Book of Mormon.”*
 
 Direct quotes from Jesus in **3 Nephi**.  
 🛑 Pride, secret societies, false churches.
