@@ -19,7 +19,7 @@ Breaks down **apocryphal books** (like 1 & 2 Esdras) removed from the 1611 KJV.
 
 ---
 
-### ✝️ [**Christian-Kabbalah.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Christian-Kabbalah.md)
+### ✝️ [**Christian-Kabbalah.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Christian-Kabbalah.md)
 
 > *“Mysticism, mastered by the Messiah.”*
 
