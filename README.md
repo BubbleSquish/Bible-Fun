@@ -58,7 +58,7 @@ Just raw, compressed Scripture.
 
 ---
 
-### 📘 [**The New‑World‑Translation.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/The%20New-World-Translation.md)
+### 📘 [**Jehovah's-Witnesses**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Jehovah's-Witnesses)
 
 > *“Another Gospel?”*
 
