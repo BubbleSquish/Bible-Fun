@@ -127,7 +127,7 @@ All warnings from Jesus (‘Isa) in the **Quran**.
 
 ---
 
-### 📜 [**Ladder‑Day‑Saints.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Ladder-Day-Saints.md)
+### 📜 [**Mormonism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Mormonism.md)
 
 > *“Yeshua (Jesus) in America — warnings from the resurrected Christ in the Book of Mormon.”*
 
