@@ -58,7 +58,7 @@ Just raw, compressed Scripture.
 
 ---
 
-### 📘 [**Jehovah's-Witnesses**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Jehovah%27s-Witnesses)
+### 📘 [**Jehovah's-Witnesses**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Jehovah's-Witnesses.md)
 
 > *“Another Gospel?”*
 
