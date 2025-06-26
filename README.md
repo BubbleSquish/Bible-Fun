@@ -10,7 +10,7 @@ A set of documents that explore, simplify, and connect biblical warnings, promis
 
 ---
 
-### 🐉 [**Biblical‑Theories.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Biblical-Theories.md)
+### 🐉 [**Biblical‑Theories.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Biblical-Theories.md)
 
 > *“What if World of Warcraft had dragons, visions, and also pointed to Christ?”*
 
