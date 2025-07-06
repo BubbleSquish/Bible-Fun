@@ -1,8 +1,5 @@
 # Divine Warnings in the Book of Revelation (KJV)
 
-> **Table of Warnings:**  
-> For a quick reference, see the [Summary Table of Warnings in Revelation](#summary-table-of-warnings-in-revelation) at the end of this document. Each warning below is marked with a table reference (e.g., [Table: Ephesus], [Table: First Seal], etc.) for cross-checking.
-
 ## Warnings in Jesus’ Messages to the Seven Churches (Revelation 1–3)
 
 * **Ephesus (Rev 2:5)** [Table: Ephesus] – *“Remember therefore from whence thou art fallen, and repent, and do the first works; **or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent**.”* **Meaning:** Christ warns the Ephesian church that if they do not rekindle the love and devotion they once had, He will **remove their “candlestick” (lampstand)** – symbolically snuffing out their light and witness as a church. **Context:** Addressed to a doctrinally sound church that had left its “first love” (2:4). Jesus urges them to remember their former zeal and repent, or face swift judgment by His coming. The removal of the lampstand signifies the church would **cease to exist as a shining congregation** if they failed to repent. **Cross-Reference:** The call to “remember… and repent” echoes God’s plea to backslidden Israel to remember her early devotion (Jeremiah 2:2-3). Losing one’s lampstand parallels Jesus’ warning that salt which loses its savor is “good for nothing” (Matthew 5:13) – without love, even orthodox works are dead.
