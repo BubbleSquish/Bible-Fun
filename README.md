@@ -194,7 +194,7 @@ The knowledge in this file comes with **a curse**, not clarity.
 
 ---
 
-### 🧬 [**Cure.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Panacea.md)
+### 🧬 [**Cure.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Cure.md)
 
 > *“When physics meets the Cross.”*
 
