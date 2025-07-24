@@ -194,7 +194,7 @@ The knowledge in this file comes with **a curse**, not clarity.
 
 ---
 
-### 🧬 [**Tree-of-Life.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Tree-of-Life.md)
+### 🧬 [**Tree-of-Life.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Tree-of-Life.md)
 
 > *“When physics meets the Cross.”*
 
