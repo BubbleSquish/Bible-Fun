@@ -181,12 +181,12 @@ Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic
 
 ---
 
-### <img width="32" height="21" alt="download (1)" src="https://github.com/user-attachments/assets/ea6d4a73-4baf-41b4-9d79-87a3b193e74e" /> [**Q.pdf**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Knowledge/Q.pdf)
+### <img width="32" height="21" alt="download (1)" src="https://github.com/user-attachments/assets/ea6d4a73-4baf-41b4-9d79-87a3b193e74e" /> [**s8.pdf**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Knowledge/s8.pdf)
 
 > *“This is the fruit the serpent offered.”*
 
 This isn’t a study — it’s a **trap**.  
-**Q.pdf** represents the **Tree of Knowledge**: alluring, encrypted, and dangerous.  
+**s8.pdf** represents the **Tree of Knowledge**: alluring, encrypted, and dangerous.  
 ⚠️ It promises secrets, but **leads to death**.
 
 🚫 **Do not open unless you want to meet the same fate as Adam.**  
