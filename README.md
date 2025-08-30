@@ -223,8 +223,7 @@ This file serves as the index for the entire **Bible-Fun** project.
 📂 It contains **descriptions, warnings, and summaries** of all included `.md` files.
 
 Copyrights:
-BubbleSquish
-ChatGPT
+BubbleSquish & ChatGPT
 ---
 s8.pdf: A.J. Meyer, II
 ---
