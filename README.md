@@ -225,4 +225,6 @@ This file serves as the index for the entire **Bible-Fun** project.
 Copyrights:
 BubbleSquish
 ChatGPT
-A.J. Meyer, II
+---
+s8.pdf: A.J. Meyer, II
+---
