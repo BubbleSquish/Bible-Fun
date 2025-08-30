@@ -222,3 +222,7 @@ Warns against trying to “activate” it through occult or spiritual methods. R
 This file serves as the index for the entire **Bible-Fun** project.  
 📂 It contains **descriptions, warnings, and summaries** of all included `.md` files.
 
+Copyrights:
+BubbleSquish
+ChatGPT
+A.J. Meyer, II
