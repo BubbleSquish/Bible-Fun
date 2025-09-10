@@ -3,9 +3,9 @@
 ## Contents
 
 * [1) The Enemy Exposed](#1-the-enemy-exposed)  
-* [1a) Satan.md — The Adversary](#1a-satanmd--the-adversary)  
 * [2) Why Purity Is Attacked](#2-why-purity-is-attacked)  
-* [3) Stand Your Ground](#3-stand-your-ground)  
+* [3) Stand Your Ground](#3-stand-your-ground)
+* [4) Purity Defeats Satan](#4-purity-defeats-satan)
 * [Key Scriptures (Quick Reference)](#key-scriptures-quick-reference)
 
 ---
@@ -28,7 +28,7 @@ Orders of the day: **be sober, be vigilant** (1 Peter 5:8). **Submit to God; res
 
 ---
 
-## 4) Purity: Satan’s Defeat
+## 4) Purity Defeats Satan
 
 Purity is lethal to Satan because it reflects God’s holiness, which he cannot endure. The light of a pure heart exposes his lies and strips away his power, for he thrives only in darkness and corruption. Every act of sincerity, holiness, and devotion to God is like a weapon against him — a reminder of his defeat at the cross. In other words, purity makes Satan die.
 
