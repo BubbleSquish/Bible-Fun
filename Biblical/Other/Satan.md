@@ -30,7 +30,7 @@ Orders of the day: **be sober, be vigilant** (1 Peter 5:8). **Submit to God; res
 
 ## 4) Purity Defeats Satan
 
-Purity is lethal to Satan because it reflects God’s holiness, which he cannot endure. The light of a pure heart exposes his lies and strips away his power, for he thrives only in darkness and corruption. Every act of sincerity, holiness, and devotion to God is like a weapon against him — a reminder of his defeat at the cross. In other words, signs of purity makes Satan angry.
+Purity is lethal to Satan because it reflects God’s holiness, which he cannot endure. The light of a pure heart exposes his lies and strips away his power, for he thrives only in darkness and corruption. Every act of sincerity, holiness, and devotion to God is like a weapon against him — a reminder of his defeat at the cross. In other words, signs of purity drains Satan of power over you.
 
 
 ---
