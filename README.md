@@ -127,7 +127,7 @@ All warnings from Jesus (‘Isa) in the **Quran**.
 
 ---
 
-### 📜 [**Mormonism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Mormonism.md)
+### 📜 [**Mormonism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Satan.md)
 
 > *“Yeshua (Jesus) in America — warnings from the resurrected Christ in the Book of Mormon.”*
 
