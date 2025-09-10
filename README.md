@@ -226,5 +226,5 @@ Copyrights:
 
 BubbleSquish & ChatGPT
 ---
-s8.pdf: A.J. Meyer, II
+s8.pdf: A.J. Meyer, II (Had no part in the creation of this project.)
 ---
