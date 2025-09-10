@@ -222,9 +222,8 @@ Warns against trying to “activate” it through occult or spiritual methods. R
 This file serves as the index for the entire **Bible-Fun** project.  
 📂 It contains **descriptions, warnings, and summaries** of all included `.md` files.
 
-Copyrights:
+## Copyright & Acknowledgments
 
-BubbleSquish & ChatGPT
----
-s8.pdf: A.J. Meyer, II (Had no part in the creation of this project.)
----
+© BubbleSquish & ChatGPT Contributors  
+`s8.pdf` © A.J. Meyer, II — original author of the source document.  
+(Referenced for context only; not involved in the development of this project.)
