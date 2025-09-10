@@ -1,11 +1,11 @@
-# Purity vs. the Enemy — Scripture-Grounded Overview
+# **purity** vs. the Enemy — Scripture-Grounded Overview
 
 ## Contents
 
 * [1) The Enemy Exposed](#1-the-enemy-exposed)  
-* [2) Why Purity Is Attacked](#2-why-purity-is-attacked)  
+* [2) Why purity Is Attacked](#2-why-purity-is-attacked)  
 * [3) Stand Your Ground](#3-stand-your-ground)
-* [4) Purity Defeats Satan](#4-purity-defeats-satan)
+* [4) purity Defeats Satan](#4-purity-defeats-satan)
 * [Key Scriptures (Quick Reference)](#key-scriptures-quick-reference)
 
 ---
@@ -16,9 +16,9 @@ Jesus identifies the enemy as a liar from the start and the father of lies, a mu
 
 ---
 
-## 2) Why Purity Is Attacked
+## 2) Why **purity** Is Attacked
 
-Purity undermines his grip because it originates in God: “the wisdom from above is first **pure**” (James 3:17), and the pure in heart **see God** (Matthew 5:8). He therefore moves with subtlety—corrupting minds from the **simplicity** in Christ (2 Corinthians 11:3) and disguising himself **as an angel of light** (2 Corinthians 11:14). He targets pure worship (John 4:24), holy living (1 Thessalonians 4:3–7), and single-hearted devotion, baiting with the **lust of the flesh, lust of the eyes, and the pride of life** (1 John 2:16).
+**purity** undermines his grip because it originates in God: “the wisdom from above is first **pure**” (James 3:17), and the pure in heart **see God** (Matthew 5:8). He therefore moves with subtlety—corrupting minds from the **simplicity** in Christ (2 Corinthians 11:3) and disguising himself **as an angel of light** (2 Corinthians 11:14). He targets pure worship (John 4:24), holy living (1 Thessalonians 4:3–7), and single-hearted devotion, baiting with the **lust of the flesh, lust of the eyes, and the pride of life** (1 John 2:16).
 
 ---
 
@@ -28,9 +28,9 @@ Orders of the day: **be sober, be vigilant** (1 Peter 5:8). **Submit to God; res
 
 ---
 
-## 4) Purity Defeats Satan
+## 4) **purity** Defeats Satan
 
-Purity is lethal to Satan because it reflects God’s holiness, which he cannot endure. The light of a pure heart exposes his lies and strips away his power, for he thrives only in darkness and corruption. Every act of sincerity, holiness, and devotion to God is like a weapon against him — a reminder of his defeat at the cross. In other words, signs of purity drains Satan of power over you.
+**purity** is lethal to Satan because it reflects God’s holiness, which he cannot endure. The light of a pure heart exposes his lies and strips away his power, for he thrives only in darkness and corruption. Every act of sincerity, holiness, and devotion to God is like a weapon against him — a reminder of his defeat at the cross. In other words, signs of **purity** drains Satan of power over you.
 
 
 ---
