@@ -1,7 +1,5 @@
 # Purity vs. the Enemy — Scripture-Grounded Overview
 
-> A concise, copy-ready summary for GitHub. Three sections, tight and to the point, backed by chapter-and-verse.
-
 ## Contents
 
 * [1) The Enemy Exposed](#1-the-enemy-exposed)  
