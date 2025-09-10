@@ -1,4 +1,4 @@
-# **purity** vs. the Enemy — Scripture-Grounded Overview
+# **Purity** vs. the Enemy — Scripture-Grounded Overview
 
 ## Contents
 
