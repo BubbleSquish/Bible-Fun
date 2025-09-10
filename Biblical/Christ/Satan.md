@@ -42,5 +42,3 @@ Orders of the day: **be sober, be vigilant** (1 Peter 5:8). **Submit to God; res
 * 1 John 2:16; 1 John 3:3; 1 John 3:8
 * 1 Peter 5:8; James 4:7; Ephesians 6:11–13
 * Proverbs 4:23; Philippians 4:8
-
-*the devil hates signs of purity*
