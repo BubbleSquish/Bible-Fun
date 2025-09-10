@@ -16,19 +16,6 @@ Jesus identifies the enemy as a liar from the start and the father of lies, a mu
 
 ---
 
-## 1a) [**Satan.md — The Adversary**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Satan.md)
-
-> *“The adversary hates the holy.”*
-
-This section expands on the biblical picture of Satan:  
-- **The liar and father of lies** (John 8:44).  
-- **The accuser of the brethren** (Revelation 12:10).  
-- **The deceiver of the whole world** (Revelation 12:9).  
-
-It ties directly into the theme of purity: *the devil hates signs of purity*. His schemes are exposed whenever holiness shines, and his fury grows because Christ — the spotless Lamb — has already won the victory. Believers are reminded that though he prowls, he is a defeated foe, overcome by the blood of the Lamb and the word of testimony (Revelation 12:11).
-
----
-
 ## 2) Why Purity Is Attacked
 
 Purity undermines his grip because it originates in God: “the wisdom from above is first **pure**” (James 3:17), and the pure in heart **see God** (Matthew 5:8). He therefore moves with subtlety—corrupting minds from the **simplicity** in Christ (2 Corinthians 11:3) and disguising himself **as an angel of light** (2 Corinthians 11:14). He targets pure worship (John 4:24), holy living (1 Thessalonians 4:3–7), and single-hearted devotion, baiting with the **lust of the flesh, lust of the eyes, and the pride of life** (1 John 2:16).
