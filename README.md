@@ -212,7 +212,7 @@ This file serves as the index for the entire **Bible-Fun** project.
 
 ## Copyright & Acknowledgments
 
-© BubbleSquish & ChatGPT AI 
-`s8.pdf` © A.J. Meyer, II — original author of the source document. 
+© BubbleSquish & ChatGPT AI
 
+`s8.pdf` © A.J. Meyer, II — original author of the source document. 
 (Referenced for context only; not involved in the development of this project.)
