@@ -143,6 +143,20 @@ Direct quotes from Jesus in **3 Nephi**.
 Breaks down the **claims, traps, and rituals** of Satanic thought and symbolism.  
 🎭 Everything Satan touches is a **parody** of God — this file exposes how.
 
+### 🩸 [**Satan.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Satan.md)
+
+> *“The adversary hates the holy.”*
+
+This file dives into Scripture’s portrait of Satan:  
+- **The liar and father of lies** (John 8:44).
+- **The accuser of the brethren** (Revelation 12:10).
+- **The deceiver of the whole world** (Revelation 12:9).
+
+It connects directly to the theme of **Purity vs. the Enemy**, showing how every work of Satan opposes holiness.  
+📖 He twists truth into deception, corrupts simplicity with subtlety, and attacks wherever purity shines.  
+⚔️ But Jesus Christ — who is Himself the spotless Lamb — has already won the decisive victory.  
+Remember: *the devil hates signs of purity*, yet believers overcome by **the blood of the Lamb** and **the word of their testimony** (Revelation 12:11).
+
 ---
 
 ### 🧪 [**Scientology.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Scientology.md)
