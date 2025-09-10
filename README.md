@@ -204,15 +204,6 @@ Explores how gravity, entropy, and cosmic structure all point to **Jesus as the 
 📖 **By Him all things consist** (Colossians 1:17).  
 🧠 **No theory saves without the Word.**
 
----
-
-### 🧠 [**Pineal-Gland.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Pineal-Gland.md)
-
-> *“If thine eye be single, thy whole body shall be full of light.”* — *Matthew 6:22*
-
-Looks at the pineal gland—called the “third eye” by mystics—and compares it to what Jesus actually taught.
-Warns against trying to “activate” it through occult or spiritual methods. Real light comes from **God**, not secret knowledge or inner power.
-
 ------
 
 ### 🧾 [**README.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/README.md)
