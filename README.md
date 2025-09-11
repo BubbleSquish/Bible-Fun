@@ -42,6 +42,12 @@ A complete list of Jesus’ **warnings** in the Four Gospels (KJV).
 
 ---
 
+### 🔥 [**Heresy-Apostasy-Blasphemy.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Heresy-Apostasy-Blasphemy.md)  
+> *“Corrupt belief, falling away, or mocking God.”*  
+Defines Christianity’s three main rejections of truth: **heresy**, **apostasy**, and **blasphemy** — where belief is twisted, abandoned, or spoken against:contentReference[oaicite:0]{index=0}.  
+
+---
+
 ### 🛡️ [**Protection.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Protection.md)
 
 > *“Armor up.”*
