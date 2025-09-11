@@ -7,7 +7,6 @@
 * [3) Stand Your Ground](#3-stand-your-ground)
 * [4) Purity Defeats Satan](#4-purity-defeats-satan)
 * [5) Daily Purity That Defeats Satan](#5-daily-purity-that-defeats-satan)
-
 * [Key Scriptures (Quick Reference)](#key-scriptures-quick-reference)
   
 ---
