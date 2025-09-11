@@ -58,6 +58,18 @@ Just raw, compressed Scripture.
 
 ---
 
+### ⚪⚫ [**Colors.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Colors.md)
+
+> *“Orthodox color language — icons in light and shadow.”*
+
+Unpacks what **white** and **black** mean in **Orthodox tradition** and Scripture.  
+⚪ **White**: the uncreated light, purity, holiness, the robe of the saints.  
+⚫ **Black**: death, sin, corruption, the abyss apart from God.  
+
+Shows how colors are used in **icons, vestments, and liturgy** to point toward Christ, the Light who shines in darkness — and the darkness cannot overcome it.
+
+---
+
 ### 📘 [**Jehovah's-Witnesses**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Jehovah's-Witnesses.md)
 
 > *“Another Gospel?”*
