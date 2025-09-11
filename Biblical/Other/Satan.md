@@ -40,13 +40,6 @@ Five daily purity drills that push back darkness: (1) Mental renewal—Scripture
 
 ---
 
-
-Purity is not private sentiment; it is open warfare. Holy living drags darkness into daylight, disciplines the flesh, orders your life under authority, and refuses secrecy. “Resist the devil” is not a slogan but a regimen: confess sin quickly, choose truth over impulse, keep accounts short with God and people, and practice obedience when it costs you. Chaos feeds him; order, accountability, and confessed truth starve him. This same discipline breaks the fog of depression: when the body is active, the mind is ordered, and the spirit is aligned with God, despair loses its grip.
-
-Five daily purity drills that push back darkness: (1) Mental renewal—Scripture first, capture intrusive thoughts, journal clean decisions, measure steady improvements in focus and patience; (2) Hygiene and order—wash, groom, keep your room and desk clean, because the body is a temple and order reflects holiness; (3) Go outside and walk—pray as you walk, breathe, notice creation, reset attention away from screens and temptation, lifting heaviness through fresh air and light; (4) Fixed prayer and confession—morning and evening set times, speak truth to God, repent fast, forgive faster, restoring joy; (5) Concrete charity and integrity—serve someone daily, refuse gossip and porn, resist cussing, tell the truth even when it costs, make restitution where needed. These habits not only resist Satan but also clear depression’s haze, bringing clarity, peace, and strength through Christlike purity.
-
----
-
 ### Key Scriptures (Quick Reference)
 
 * John 8:44; John 3:19–20  
