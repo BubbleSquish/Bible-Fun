@@ -5,7 +5,7 @@
 * [1) The Enemy Exposed](#1-the-enemy-exposed)  
 * [2) Why purity Is Attacked](#2-why-purity-is-attacked)  
 * [3) Stand Your Ground](#3-stand-your-ground)
-* [4) purity Defeats Satan](#4-purity-defeats-satan)
+* [4) Purity Defeats Satan](#4-purity-defeats-satan)
 * [Key Scriptures (Quick Reference)](#key-scriptures-quick-reference)
 
 ---
