@@ -222,7 +222,7 @@ With all good things, there is a **sacrifice**. A glimpse into the paradoxes of 
 
 ---
 
-### 🌲 [**Tree-of-Life.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Tree-of-Life.md)
+### 🌲 [**Tree-of-Life.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Tree-of-Life.md)
 
 > *“When physics meets the Cross.”*
 
