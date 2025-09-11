@@ -51,7 +51,7 @@ These three words are often confused, but they mean different things in Christia
 - **Example**: Arius — taught Jesus was created, not eternal God.  
 - **Scripture**: 1 Corinthians 11:19; Titus 3:10.  
 
-👉 Corrupts doctrine **inside the faith**.  
+Corrupts doctrine **inside the faith**.  
 
 ---
 
@@ -61,7 +61,7 @@ These three words are often confused, but they mean different things in Christia
 - **Example**: Judas Iscariot; Hebrews 6:6’s warning.  
 - **Scripture**: 1 Timothy 4:1; Hebrews 6:4–6.  
 
-👉 Walks **out of the faith** completely.  
+Walks **out of the faith** completely.  
 
 ---
 
@@ -71,7 +71,7 @@ These three words are often confused, but they mean different things in Christia
 - **Example**: Pharisees accusing Jesus of using Satan’s power (Matthew 12:24).  
 - **Scripture**: Mark 3:29.  
 
-👉 **Insults or mocks God**, in or outside Christianity.  
+**Insults or mocks God**, in or outside Christianity.  
 
 ---
 
