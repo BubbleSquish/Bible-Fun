@@ -155,6 +155,8 @@ Direct quotes from Jesus in **3 Nephi**.
 Breaks down the **claims, traps, and rituals** of Satanic thought and symbolism.  
 🎭 Everything Satan touches is a **parody** of God — this file exposes how.
 
+---
+
 ### ⛧ [**Satan.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Satan.md)
 
 > *“The adversary hates the holy.”*
