@@ -10,7 +10,7 @@ A set of documents that explore, simplify, and connect biblical warnings, promis
 
 ---
 
-### 🐉 [**Biblical‑Theories.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Biblical-Theories.md)
+### 🐉 [**Biblical‑Theories.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Biblical-j.md)
 
 > *“What if World of Warcraft had dragons, visions, and also pointed to Christ?”*
 
@@ -28,7 +28,7 @@ A **Christ-approved guide** to spiritual mysteries.
 
 ---
 
-### ✅ [**Jesus’-Promises.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/%20Jesus%E2%80%99-Promises.md)
+### ✅ [**Jesus-Promises.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Jesus-Promises.md)
 
 All of Jesus’ **promises** — the counterbalance to judgment.  
 📕 Encouragement for the faithful.
