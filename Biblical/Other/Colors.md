@@ -1,3 +1,5 @@
+# Orthodox color language — icons in light and shadow
+
 # White
 
 * **Meaning:** Light, resurrection, purity, victory.
