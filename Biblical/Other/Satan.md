@@ -38,8 +38,6 @@ Christ overcame Satan by perfect obedience, truth, humility, and self-giving lov
 
 Five daily **purity** drills that push back darkness: (1) Mental renewal—Scripture first, capture intrusive thoughts, journal clean decisions, measure steady improvements in focus and patience; (2) Hygiene and order—wash, groom, keep your room and desk clean, because the body is a temple and order reflects holiness; (3) Go outside and walk—pray as you walk, breathe, notice creation, reset attention away from screens and temptation, lifting heaviness through fresh air and light; (4) Fixed prayer and confession—morning and evening set times, speak truth to God, repent fast, forgive faster, restoring joy; (5) Concrete charity and integrity—serve someone daily, refuse gossip and porn, tell the truth even when it costs, make restitution where needed. These habits not only resist Satan but also clear depression’s haze, bringing clarity, peace, and strength through Christlike **purity**.
 
-Remember to use a crucifix when in doubt.
-
 ---
 
 ### Key Scriptures (Quick Reference)
