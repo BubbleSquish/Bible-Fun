@@ -145,7 +145,7 @@ All warnings from Jesus (‘Isa) in the **Quran**.
 
 ---
 
-### 📜 [**Mormonism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Satan.md)
+### 📜 [**Mormonism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Mormonism.md)
 
 > *“Yeshua (Jesus) in America — warnings from the resurrected Christ in the Book of Mormon.”*
 
@@ -163,7 +163,7 @@ Breaks down the **claims, traps, and rituals** of Satanic thought and symbolism.
 
 ---
 
-### ⛧ [**Satan.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Satan.md)
+### ⛧ [**Purity.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Purity.md)
 
 > *“The adversary hates the holy.”*
 
