@@ -216,13 +216,16 @@ Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic
 
 > *“This is the fruit the serpent offered.”*
 
-**s8.pdf** represents the **Tree of Knowledge**
+**s8.pdf** represents the **Forbidden Fruit** from Genesis 3:5
+
+Quote from the serpent:
+> *“For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.”*
 
 With all good things, there is a **sacrifice**. A glimpse into the paradoxes of quantum reality — a chance to trace the outlines of the unseen, where logic bends and possibilities multiply.
 
 ---
 
-### 🌲 [**Tree-of-Life.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Tree-of-Life.md)
+### 🌲 [**Fruit.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Fruit.md)
 
 > *“When physics meets the Cross.”*
 
