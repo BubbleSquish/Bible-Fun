@@ -225,7 +225,7 @@ With all good things, there is a **sacrifice**. A glimpse into the paradoxes of 
 
 ---
 
-### [<img width="47" height="34" alt="PF" src="https://github.com/user-attachments/assets/2d590f5e-7bef-4dea-bb7a-aa99819b0299" /> **Fruit.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Fruit.md)
+### [<img width="47" height="34" alt="PF" src="https://github.com/user-attachments/assets/2d590f5e-7bef-4dea-bb7a-aa99819b0299" /> **Fruits.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Fruits.md)
 
 > *“When physics meets the Cross.”*
 
