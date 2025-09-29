@@ -244,9 +244,9 @@ Explores how gravity, entropy, and cosmic structure all point to **Jesus as the 
 This file serves as the index for the entire **Bible-Fun** project.  
 📂 It contains **descriptions, warnings, and summaries** of all included `.md` files.
 
+---
 ## Copyright & Acknowledgments
-
-© BubbleSquish & ChatGPT AI
-
-`s8.pdf` © A.J. Meyer, II — original author of the source document. 
+© BubbleSquish
+`s8.pdf` © A.J. Meyer, II — original author of the source document.
+ChatGPT — The AI Chat Bot that was heavily used in the making of this project.
 (Referenced for context only; not involved in the development of this project.)
