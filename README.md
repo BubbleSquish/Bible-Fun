@@ -6,7 +6,7 @@
 
 ## 📘 Bible‑Fun Collection Index
 
-A set of documents that explore, simplify, and connect biblical warnings, promises, and apocalyptic visions — KJV style, **not to be taken too seriously**. It's just a fun **Bible + AI Project** I came up with.
+A set of documents that explore, simplify, draw parallels between Jesus's teaching in other religions, biblical warnings, promises, and apocalyptic visions — KJV, **not to be taken too seriously**. It's just a fun **Bible + AI Project** I came up with.
 
 ---
 
