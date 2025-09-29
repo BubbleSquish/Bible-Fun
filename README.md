@@ -246,7 +246,7 @@ This file serves as the index for the entire **Bible-Fun** project.
 
 ---
 ## Copyright & Acknowledgments
-© BubbleSquish
-`s8.pdf` © A.J. Meyer, II — original author of the source document.
-ChatGPT — The AI Chat Bot that was heavily used in the making of this project.
+# © BubbleSquish
+`s8.pdf` © A.J. Meyer, II — original author of the `s8.pdf` document.
 (Referenced for context only; not involved in the development of this project.)
+ChatGPT — The AI Chat Bot that was heavily used in the making of this project.
