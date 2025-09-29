@@ -136,7 +136,7 @@ Jesus and the **Kapu code** both warn of sacred trespass.
 
 ---
 
-### ☪︎ [**Islamism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Islamism.md)
+### ☪︎ [**Islam.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Islam.md)
 
 Side-by-side look at **Jesus’ warnings** and their **Islamic parallels**, showing shared calls to sincerity, humility, and justice.
 
