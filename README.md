@@ -136,12 +136,9 @@ Jesus and the **Kapu code** both warn of sacred trespass.
 
 ---
 
-### 📖 [**Koran.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Koran.md)
+### 📖 [**Islam.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Islam.md)
 
-> *“He warned from the cradle.”*
-
-All warnings from Jesus (‘Isa) in the **Quran**.  
-☪️ Prophecy, false worship, final judgment.
+Side-by-side look at **Jesus’ warnings** and their **Islamic parallels**, showing shared calls to sincerity, humility, and justice.
 
 ---
 
