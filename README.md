@@ -251,4 +251,5 @@ This file serves as the index for the entire **Bible-Fun** project.
 Below is referenced for context only; not involved in the development of this project.
 
 `s8.pdf` © A.J. Meyer, II — original author of the `s8.pdf` document.
-ChatGPT — The AI Chat Bot that was heavily used in the making of this project.
+
+ChatGPT — The _AI Chat Bot_ that was heavily used in the making of this project.
