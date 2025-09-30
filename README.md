@@ -241,8 +241,6 @@ This file serves as the index for the entire **Bible-Fun** project.
 
 ## Copyright & Acknowledgments
 
-[BubbleSquish](https://github.com/BubbleSquish/)
-
 Below is referenced for context only; not involved in the development of this project.
 
 [s8.pdf](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/s8.pdf) © A.J. Meyer, II — original author of the [s8.pdf](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/s8.pdf).
