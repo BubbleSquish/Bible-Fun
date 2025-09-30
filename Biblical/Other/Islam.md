@@ -1,9 +1,3 @@
-# Warnings in Jesus’ Teachings with Islamic Parallels
-
-This Markdown document is formatted for easy viewing and copying into a GitHub repository (e.g., as part of a README.md file). It organizes key warnings from Jesus' teachings in the Gospels by topic, with Islamic parallels. 
-
-First, a concise reference table summarizing the topics, verses, and parallels. Detailed entries follow in a separate section, providing the full scripture text (in bold), explanations, contexts, and alignments.
-
 ## Reference Table
 
 | Topic | Verse | Gospel Parallels | Islamic Parallel |
