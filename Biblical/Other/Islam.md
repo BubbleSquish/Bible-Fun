@@ -1,7 +1,5 @@
 # Warnings in Jesus’ Teachings with Islamic Parallels
 
-> ⚠️ **Summary:** Jesus issues warnings against hypocrisy, greed, pride, injustice, false guidance, and spiritual complacency. The Qur’an and Sunnah echo these themes with parallel cautions about shirk, nifaq, riya’, greed, oppression, and heedlessness.
-
 ---
 
 ## Quick Reference Table
