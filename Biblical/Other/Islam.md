@@ -1,88 +1,258 @@
 # Warnings in Jesus’ Teachings with Islamic Parallels
 
-## Reference Table
-
-| Theme                          | Jesus (Verses)                     | Islamic Parallels (Qur’an / Hadith)     |
-|--------------------------------|-------------------------------------|-----------------------------------------|
-| Hypocrisy                      | Matthew 23; Luke 12:1               | Qur’an 4:142-145; 63:1-4; hadith signs of hypocrite |
-| Ostentation in Worship          | Matthew 6:1-6, 16-18                | Qur’an 107; 2:264; 4:38; hadith on hidden shirk |
-| Greed and Wealth               | Matthew 6:24; Luke 12:15-21; Mark 10:17-25 | Qur’an 9:34-35; 102:1-8; 3:14; hadith on greed |
-| Lust and Adultery              | Matthew 5:27-30                     | Qur’an 17:32; 24:30-31; hadith on gaze |
-| Anger and Hatred               | Matthew 5:21-26; 5:44               | Qur’an 5:8; 41:34; 3:134; hadith on anger |
-| Unforgiveness                  | Matthew 6:14-15; 18:21-35           | Qur’an 24:22; 64:14; hadith on mercy |
-| False Prophets                 | Matthew 7:15-23; 24:24              | Qur’an 6:112; 31:6; hadith on dajjālīn |
-| Judging Others                 | Matthew 7:1-5; Luke 18:9-14         | Qur’an 49:11-12; 53:32; hadith on sins |
-| Empty Law-Keeping              | Matthew 23:23-28; Mark 7:6-13       | Qur’an 2:177; 22:37; 61:2-3 |
-| Neglecting the Poor            | Matthew 25:31-46; Luke 16:19-31     | Qur’an 107; 90:12-18; 76:8-9 |
-| Causing “Little Ones” to Stumble | Matthew 18:6-7                     | Qur’an 33:58; 2:114; hadith on harming believers |
-| Oaths and Speech               | Matthew 5:33-37                     | Qur’an 5:89; 24:7-9; 33:70 |
-| Anxiety and Worldliness        | Matthew 6:25-34                     | Qur’an 65:2-3; 3:139-140; 57:20 |
-| Blasphemy / Hardening          | Mark 3:28-30; Matthew 12:31-32      | Qur’an 4:48,116 (shirk) |
-| Denying the Messenger          | Matthew 10:32-33; Luke 12:8-9       | Qur’an 14:27; 16:106 |
-| End-Times Heedlessness         | Matthew 24-25; Mark 13              | Qur’an 18:103-106; 21:1-2; 99 |
+> ⚠️ **Summary:** Jesus issues warnings against hypocrisy, greed, pride, injustice, false guidance, and spiritual complacency. The Qur’an and Sunnah echo these themes with parallel cautions about shirk, nifaq, riya’, greed, oppression, and heedlessness.
 
 ---
 
-## 1. Hypocrisy
-- **Jesus:** Condemns outward religiosity with inner corruption (Matt 23).  
-- **Islam:** Qur’an calls out *munāfiqūn* (4:142-145). Hadith: three signs of a hypocrite.
+## Quick Reference Table
 
-## 2. Ostentation in Worship
-- **Jesus:** Warns against praying, fasting, and giving for show (Matt 6:1-6, 16-18).  
-- **Islam:** Qur’an condemns showy charity (107; 2:264). Hadith: “smallest shirk” is doing deeds to be seen.
+|  # | Warning Theme                         | Jesus (Gospels)                      | Qur’an                             | Hadith                            | Section                                                |
+| -: | ------------------------------------- | ------------------------------------ | ---------------------------------- | --------------------------------- | ------------------------------------------------------ |
+|  1 | False prophets and deceivers          | Mt 7:15–20; Mt 24:4–5, 11, 23–25     | 6:93; 7:45; 31:33                  | Reports on Dajjāl; “thirty liars” | [§1](#1-false-prophets-and-deceivers)                  |
+|  2 | Hypocrisy and showmanship in worship  | Mt 6:1–6, 16–18; Mt 23               | 107:4–7; 4:38; 2:264; 63:1–4       | “Minor shirk is riya’”            | [§2](#2-hypocrisy-and-showmanship-in-worship)          |
+|  3 | Greed, hoarding, love of wealth       | Lk 12:15–21; Mt 6:19–24; Mt 19:23–24 | 102; 104; 3:180; 9:34–35; 89:17–20 | —                                 | [§3](#3-greed-hoarding-and-love-of-wealth)             |
+|  4 | Neglect of the poor and vulnerable    | Mt 25:31–46; Lk 16:19–31             | 107; 69:33–34; 90:12–18; 76:8–9    | —                                 | [§4](#4-neglect-of-the-poor-and-vulnerable)            |
+|  5 | Unforgiveness and hard hearts         | Mt 6:14–15; Mt 18:21–35              | 24:22; 3:134; 39:53                | “No mercy to the merciless”       | [§5](#5-unforgiveness-and-hard-hearts)                 |
+|  6 | Lust and adultery                     | Mt 5:27–30                           | 17:32; 24:2; 24:30–31              | —                                 | [§6](#6-lust-and-adultery)                             |
+|  7 | Anger and contempt                    | Mt 5:21–22                           | 3:134                              | “Do not get angry”                | [§7](#7-anger-and-contempt)                            |
+|  8 | Oaths and truthfulness                | Mt 5:33–37                           | 2:224; 5:89; 61:2–3                | —                                 | [§8](#8-oaths-and-truthfulness)                        |
+|  9 | Causing others to stumble, misguiding | Mt 18:6–9                            | 7:45; 33:58                        | —                                 | [§9](#9-causing-others-to-stumble-misguiding)          |
+| 10 | Love of status and pride              | Lk 14:7–11; Mt 23:5–12               | 31:18; 16:23; 28:76–83; 96:6–7     | —                                 | [§10](#10-love-of-status-and-pride)                    |
+| 11 | Worry and worldly anxiety             | Mt 6:25–34                           | 57:20; 3:139; 65:3                 | —                                 | [§11](#11-worry-and-worldly-anxiety)                   |
+| 12 | Trusting in wealth not God            | Mt 6:24; Mk 10:17–31                 | 100:6–11; 92:8–11                  | —                                 | [§12](#12-trusting-in-wealth-not-god)                  |
+| 13 | Blasphemy against the Holy Spirit     | Mt 12:31–32; Mk 3:28–30              | 4:48; 4:116 (shirk)                | —                                 | [§13](#13-blasphemy-against-the-holy-spirit-and-shirk) |
+| 14 | Judging others without self‑exam      | Mt 7:1–5; Lk 6:37–42                 | 49:11–12; 2:44                     | —                                 | [§14](#14-judgment-without-self-examination)           |
+| 15 | End‑times deception and complacency   | Mt 24:4–13, 36–51; Lk 21:34–36       | 31:33; 18:99; 21:96                | Dajjāl warnings                   | [§15](#15-end-times-deception-and-complacency)         |
+| 16 | Fruitlessness and empty profession    | Mt 7:21–23; Jn 15:1–6                | 61:2–3; 103:1–3; 3:104             | —                                 | [§16](#16-fruitlessness-and-empty-profession)          |
+| 17 | Hidden sin and hypocrisy              | Lk 12:1–3                            | 86:9; 3:29; 64:4                   | —                                 | [§17](#17-hidden-sin-and-hypocrisy)                    |
+| 18 | Persecution, denial, and shame        | Mk 8:34–38; Mt 10:32–33; Jn 15:18–21 | 29:2–3; 3:142; 2:155; 16:106       | —                                 | [§18](#18-persecution-denial-and-shame)                |
+| 19 | Divorce and hardness of heart         | Mt 19:3–9; Mk 10:2–12                | 2:231–232; 65:1–2                  | —                                 | [§19](#19-divorce-and-hardness-of-heart)               |
+| 20 | Regarding children and “the least”    | Mt 18:1–5, 10; 19:14                 | 4:2; 93:9–10; 6:152; 17:23–24      | —                                 | [§20](#20-regarding-children-and-the-least)            |
 
-## 3. Greed and Wealth
-- **Jesus:** “You cannot serve God and mammon” (Matt 6:24).  
-- **Islam:** Qur’an warns against hoarding wealth (9:34-35; 102:1-8).
+> **Notes on references:** “Mt/Lk/Mk/Jn” = Matthew/Luke/Mark/John. Qur’an citations are *sūrah:āyah* (e.g., **4:48**). Hadith labels are indicative; numbering varies by edition.
 
-## 4. Lust and Adultery
-- **Jesus:** Equates lustful looks with adultery (Matt 5:27-30).  
-- **Islam:** Qur’an commands modesty and lowering the gaze (17:32; 24:30-31).
+---
 
-## 5. Anger and Hatred
-- **Jesus:** Anger likened to murder (Matt 5:21-26). Commands love of enemies (5:44).  
-- **Islam:** Qur’an: “Restrain anger and pardon” (3:134). Hadith: “Strong is he who controls anger.”
+## Scope and Method
 
-## 6. Unforgiveness
-- **Jesus:** Refusal to forgive blocks God’s forgiveness (Matt 6:14-15).  
-- **Islam:** Qur’an 24:22 calls for forgiveness. Hadith: Allah is merciful to the merciful.
+* **Thematic parallels, not doctrinal identity.** Parallels map ethical warnings and spiritual cautions, not theology of salvation or Christology.
+* **Canonical anchors.** Gospel passages are from the canonical Gospels; Islamic references are from the Qur’an and widely‑reported hadith.
+* **Economy of quotation.** Summaries paraphrase the sense. Readers should consult full texts for wording and context.
 
-## 7. False Prophets
-- **Jesus:** Warns against wolves in sheep’s clothing (Matt 7:15).  
-- **Islam:** Qur’an 6:112 mentions deceivers. Hadith: many false claimants will appear before the Hour.
+---
 
-## 8. Judging Others
-- **Jesus:** “Judge not” (Matt 7:1-5). Parable of Pharisee and tax collector (Luke 18:9-14).  
-- **Islam:** Qur’an forbids mockery and suspicion (49:11-12). Hadith: believer sees his sins as a mountain.
+## 1. False prophets and deceivers
 
-## 9. Empty Law-Keeping
-- **Jesus:** Condemns tithing herbs but neglecting justice (Matt 23:23).  
-- **Islam:** Qur’an 2:177 defines true righteousness beyond rituals.
+**Jesus:** Mt 7:15–20; Mt 24:4–5, 11, 23–25. Warns of wolves in sheep’s clothing and messianic impostors; tests are by fruits and fidelity to truth.
 
-## 10. Neglecting the Poor
-- **Jesus:** Parable of sheep and goats (Matt 25:31-46).  
-- **Islam:** Qur’an: those who deny the religion neglect the orphan and poor (107:1-3).
+**Islamic parallels:** Qur’an condemns inventing lies against God and leading from His path (6:93; 7:45) and warns against worldly deception (31:33). Eschatology includes Dajjāl and multiple impostors in hadith.
 
-## 11. Causing “Little Ones” to Stumble
-- **Jesus:** Better to drown than mislead little ones (Matt 18:6-7).  
-- **Islam:** Qur’an condemns harming believers unjustly (33:58).
+**Takeaway:** Discern claims by outcomes and conformity to revelation.
 
-## 12. Oaths and Speech
-- **Jesus:** “Let your Yes be Yes, No be No” (Matt 5:37).  
-- **Islam:** Qur’an 33:70 urges believers to speak rightly.
+---
 
-## 13. Anxiety and Worldliness
-- **Jesus:** “Do not worry… seek first the kingdom” (Matt 6:25-34).  
-- **Islam:** Qur’an 65:2-3: Whoever relies on Allah, He is enough.
+## 2. Hypocrisy and showmanship in worship
 
-## 14. Blasphemy / Hardening
-- **Jesus:** Warning against blasphemy of the Spirit (Matt 12:31).  
-- **Islam:** Qur’an: Allah forgives all except shirk (4:48,116).
+**Jesus:** Mt 6:1–6, 16–18; Mt 23. Warns against public righteousness to be seen; pronounces woes on hypocrites.
 
-## 15. Denying the Messenger
-- **Jesus:** Denying Him before men means being denied before the Father (Matt 10:32-33).  
-- **Islam:** Qur’an 16:106 speaks of those who deny after belief.
+**Islamic parallels:** Condemns ostentation and heedless prayer (107:4–7), spending to be seen (4:38), invalidated charity by reminders/injury (2:264), and outlines signs of nifāq (63:1–4).
 
-## 16. End-Times Heedlessness
-- **Jesus:** Urges vigilance, parable of ten virgins (Matt 25).  
-- **Islam:** Qur’an 21:1-2: Hour has drawn near yet people heedless.
+**Takeaway:** Seek sincerity before God, not praise before people.
+
+---
+
+## 3. Greed, hoarding, and love of wealth
+
+**Jesus:** Lk 12:15–21; Mt 6:19–24; Mt 19:23–24. Warns that life is not possessions; treasures in heaven; wealth can enslave.
+
+**Islamic parallels:** Blame of rivalry in accumulation (102) and hoarding (104); warning on hoarding gold/silver (9:34–35; 3:180); censure of neglecting orphans and poor (89:17–20).
+
+**Takeaway:** Wealth is a test; attachment corrodes.
+
+---
+
+## 4. Neglect of the poor and vulnerable
+
+**Jesus:** Mt 25:31–46; Lk 16:19–31. Judgment scenes center on mercy to the hungry, stranger, sick; parable of the rich man and Lazarus.
+
+**Islamic parallels:** Denunciation of those who repel the orphan and withhold small kindnesses (107); blame for not encouraging feeding the poor (69:33–34); call to the steep path of freeing and feeding (90:12–18); praise for feeding solely for God’s face (76:8–9).
+
+**Takeaway:** Neglect of the weak invites judgment.
+
+---
+
+## 5. Unforgiveness and hard hearts
+
+**Jesus:** Mt 6:14–15; Mt 18:21–35. Forgiveness received must be extended; refusal imperils one’s standing.
+
+**Islamic parallels:** Enjoin forgiveness and magnanimity (24:22; 3:134). God’s vast forgiveness is offered (39:53). Prophetic teaching censures mercilessness.
+
+**Takeaway:** Mercy received obligates mercy given.
+
+---
+
+## 6. Lust and adultery
+
+**Jesus:** Mt 5:27–30. Condemns lustful intent and calls for radical moral discipline.
+
+**Islamic parallels:** Forbids approaching zina (17:32); prescribes legal penalties (24:2) and commands modesty and lowering the gaze (24:30–31).
+
+**Takeaway:** Guard the heart and the gaze.
+
+---
+
+## 7. Anger and contempt
+
+**Jesus:** Mt 5:21–22. Condemns murderous anger and demeaning speech; reconciliation is urgent.
+
+**Islamic parallels:** Praises those who restrain anger and pardon people (3:134). Prophetic counsel prioritizes anger‑control.
+
+**Takeaway:** Unchecked anger endangers the soul and community.
+
+---
+
+## 8. Oaths and truthfulness
+
+**Jesus:** Mt 5:33–37. Let your “Yes” be yes; avoid manipulative oath‑craft.
+
+**Islamic parallels:** Do not use oaths to hinder good (2:224); expiation for broken oaths (5:89); rebuke of saying what one does not do (61:2–3).
+
+**Takeaway:** Simple, reliable speech signals integrity.
+
+---
+
+## 9. Causing others to stumble, misguiding
+
+**Jesus:** Mt 18:6–9. Severe warning for causing “little ones” to stumble; radical avoidance of scandal.
+
+**Islamic parallels:** Condemns blocking God’s path (7:45) and harming believers (33:58).
+
+**Takeaway:** Responsibility scales with influence; avoid scandals and misguidance.
+
+---
+
+## 10. Love of status and pride
+
+**Jesus:** Lk 14:7–11; Mt 23:5–12. Exalts humility; condemns love of titles and places of honor.
+
+**Islamic parallels:** Forbids arrogance and haughtiness (31:18; 16:23); parable of Qārūn’s hubris (28:76–83); reminds that man transgresses when he deems himself self‑sufficient (96:6–7).
+
+**Takeaway:** Seek the low place; God raises the humble.
+
+---
+
+## 11. Worry and worldly anxiety
+
+**Jesus:** Mt 6:25–34. Rejects anxious striving; prioritize God’s kingdom.
+
+**Islamic parallels:** Worldly life as play and adornment (57:20); do not lose heart (3:139); whoever relies on God, He suffices (65:3).
+
+**Takeaway:** Trust displaces corrosive anxiety.
+
+---
+
+## 12. Trusting in wealth not God
+
+**Jesus:** Mt 6:24; Mk 10:17–31. You cannot serve God and Mammon; riches can hinder discipleship.
+
+**Islamic parallels:** Man’s intense love of wealth (100:6–11); warning to the miser and denier (92:8–11).
+
+**Takeaway:** Wealth makes a poor master.
+
+---
+
+## 13. Blasphemy against the Holy Spirit and shirk
+
+**Jesus:** Mt 12:31–32; Mk 3:28–30. Warning against attributing God’s work to evil.
+
+**Islamic parallels:** Shirk—associating partners with God—is the unforgivable sin if unrepented (4:48; 4:116).
+
+**Takeaway:** Guard the heart’s allegiance and attribution of the sacred.
+
+---
+
+## 14. Judgment without self‑examination
+
+**Jesus:** Mt 7:1–5; Lk 6:37–42. Measure you use will be measured to you; remove your beam first.
+
+**Islamic parallels:** Forbids mockery, suspicion, backbiting (49:11–12); rebukes preaching righteousness while neglecting oneself (2:44).
+
+**Takeaway:** Reform self before correcting others.
+
+---
+
+## 15. End‑times deception and complacency
+
+**Jesus:** Mt 24:4–13, 36–51; Lk 21:34–36. Warns of deception, tribulation, and the need for vigilance.
+
+**Islamic parallels:** Cautions against worldly deception (31:33) and speaks of eschatological upheavals (18:99; 21:96). Hadith warn of Dajjāl and urge vigilance.
+
+**Takeaway:** Stay awake; anchor in revealed truth.
+
+---
+
+## 16. Fruitlessness and empty profession
+
+**Jesus:** Mt 7:21–23; Jn 15:1–6. Mere confession without obedience fails; fruitlessness is judged.
+
+**Islamic parallels:** Rebuke for saying without doing (61:2–3); salvation linked to faith and righteous deeds (103:1–3); call to command right and forbid wrong (3:104).
+
+**Takeaway:** Orthodoxy must flower into orthopraxy.
+
+---
+
+## 17. Hidden sin and hypocrisy
+
+**Jesus:** Lk 12:1–3. Nothing hidden will not be revealed.
+
+**Islamic parallels:** God knows the most hidden secrets (86:9; 3:29; 64:4).
+
+**Takeaway:** Live as if everything will be disclosed—because it will.
+
+---
+
+## 18. Persecution, denial, and shame
+
+**Jesus:** Mk 8:34–38; Mt 10:32–33; Jn 15:18–21. Discipleship entails cross‑bearing; denying before men has consequences.
+
+**Islamic parallels:** Trials test believers (29:2–3; 3:142; 2:155); concession for compulsion with the heart firm (16:106).
+
+**Takeaway:** Expect tests; seek steadfastness without public faithlessness.
+
+---
+
+## 19. Divorce and hardness of heart
+
+**Jesus:** Mt 19:3–9; Mk 10:2–12. Return to creation ideal; hardness of heart permitted concessions but does not justify injustice.
+
+**Islamic parallels:** Regulates divorce with justice and due process (2:231–232; 65:1–2) and forbids harm.
+
+**Takeaway:** Protect marriage with justice; if parting, part rightly.
+
+---
+
+## 20. Regarding children and “the least”
+
+**Jesus:** Mt 18:1–5, 10; 19:14. Receive the kingdom like a child; do not despise little ones; welcome them is to welcome Him.
+
+**Islamic parallels:** Command to safeguard orphans (4:2); do not oppress the orphan or repulse the beggar (93:9–10); justice toward children and the vulnerable (6:152); kindness to parents (17:23–24).
+
+**Takeaway:** Honor the small and dependent; God defends them.
+
+---
+
+## Usage
+
+* **For study groups:** Use the table to assign themes. Read both Gospel and Qur’an passages. Compare ethical thrust, not theology.
+* **For teaching:** Pair each section with primary‑text reading and a short case study.
+* **For personal audit:** Pick one theme per week, journal practical steps.
+
+## Cautions
+
+* Parallels are **ethical** not **creedal**. Do not flatten real doctrinal differences.
+* Hadith numbering varies; consult critical editions or reliable databases.
+
+## Further Reading
+
+* Synoptic Woes: Matthew 23; parallels in Mark/Luke.
+* Qur’anic themes: *takāthur* (102), *nifāq* (63), *riya’* (107), stewardship and justice.
