@@ -1,7 +1,5 @@
 # Warnings in Jesus’ Teachings with Islamic Parallels
 
----
-
 ## Quick Reference Table
 
 |  # | Warning Theme                         | Jesus (Gospels)                      | Qur’an                             | Hadith                      | Section                                                |
