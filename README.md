@@ -209,7 +209,7 @@ Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic
 
 ---
 
-### <img width="32" height="21" alt="download (1)" src="https://github.com/user-attachments/assets/ea6d4a73-4baf-41b4-9d79-87a3b193e74e" /> [**s8.pdf**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Knowledge/s8.pdf)
+### <img width="32" height="21" alt="download (1)" src="https://github.com/user-attachments/assets/ea6d4a73-4baf-41b4-9d79-87a3b193e74e" /> [**s8.pdf**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/s8.pdf)
 
 **s8.pdf** represents the **Forbidden Fruit** from Genesis 3:5
 
