@@ -138,8 +138,7 @@ Jesus and the **Kapu code** both warn of sacred trespass.
 
 ### ☪︎ [**Islam.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Islam.md)
 
-Jesus issues warnings against hypocrisy, greed, pride, injustice, false guidance, and spiritual complacency. 
-The Qur’an and Sunnah echo these themes with parallel cautions about shirk, nifaq, riya’, greed, oppression, and heedlessness.
+Jesus issues warnings against hypocrisy, greed, pride, injustice, false guidance, and spiritual complacency. The Qur’an and Sunnah echo these themes with parallel cautions about shirk, nifaq, riya’, greed, oppression, and heedlessness.
 
 ---
 
