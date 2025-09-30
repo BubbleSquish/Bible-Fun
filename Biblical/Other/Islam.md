@@ -306,7 +306,3 @@
 **Explanation:** The weak are a divine trust.
 
 **Context:** Jesus centers children as models of faith; Qur’an commands safeguarding orphans and the needy.
-
-
-* v1.1: Added direct quotations, explanations, and context for all 20 themes.
-* v1.0: Initial deep‑reference table and thematic notes.
