@@ -230,7 +230,7 @@ Explores how gravity, entropy, and cosmic structure all point to **Jesus as the 
 📖 **By Him all things consist** (Colossians 1:17).  
 🧠 **No theory saves without the Word.**
 
-------
+---
 
 ### 🧾 [**README.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/README.md)
 
@@ -239,7 +239,7 @@ Explores how gravity, entropy, and cosmic structure all point to **Jesus as the 
 This file serves as the index for the entire **Bible-Fun** project.  
 📂 It contains **descriptions, warnings, and summaries** of all included `.md` files.
 
-------
+---
 
 ## Copyright & Acknowledgments
 
