@@ -241,10 +241,10 @@ This file serves as the index for the entire **Bible-Fun** project.
 
 ## Copyright & Acknowledgments
 
-# © BubbleSquish
+[BubbleSquish](https://github.com/BubbleSquish/)
 
 Below is referenced for context only; not involved in the development of this project.
 
-`s8.pdf` © A.J. Meyer, II — original author of the `s8.pdf` document.
+[s8.pdf](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/s8.pdf) © A.J. Meyer, II — original author of the [s8.pdf](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/s8.pdf).
 
-ChatGPT & Grok — The _AI Chat Bots_ that were heavily used in the making of this project.
+[ChatGPT](https://chatgpt.com/) & [Grok](https://grok.com/) — The _AI Chat Bots_ that were heavily used in the making of this project.
