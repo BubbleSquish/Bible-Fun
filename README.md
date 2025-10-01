@@ -3,7 +3,7 @@
 <h1 style="fontsize: 2.5em; color: #8B0000;">🕊️ BibleFun: Where Scripture Meets AI and World Religions 🕊️</h1>
 
 <p align="center">
-  <img src="https://github.com/userattachments/assets/ed07f7a8df074c00a7cbff6b5a8cef62" alt="BibleFun Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ed07f7a8-df07-4c00-a7cb-ff6b5a8cef62" alt="Bible-Fun Logo" width="200"/>
 </p>
 
 <p align="center">Dive into a quirky collection of documents that blend biblical wisdom from the KJV with parallels from global religions, apocalyptic vibes, and even a dash of science. This isn't your grandma's Bible study—it's a lighthearted AIpowered project designed for curious minds. Not to be taken too seriously, but who knows? It might spark some divine inspiration.</p>
