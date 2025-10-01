@@ -6,7 +6,7 @@
 
 ## 📘 Bible‑Fun Collection Index
 
-A set of documents that explore, simplify, attempt to draw parallels between Jesus’ teachings in other religions, biblical warnings, promises, and apocalyptic visions — KJV, **not to be taken too seriously**. It's just a fun **Religion + AI Project** I came up with.
+A set of documents that explore, simplify, and attempt to draw parallels between Jesus’ teachings in other religions, biblical warnings, promises, and apocalyptic visions — KJV, **not to be taken too seriously**. It's just a fun **Religion + AI Project** I came up with.
 
 ---
 
@@ -216,7 +216,7 @@ Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic
 Quote from the serpent:
 > *“For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.”*
 
-With all good things, there needs to be a **sacrifice**. A glimpse into the paradoxes of quantum reality — a chance to trace the outlines of the unseen, where logic bends and possibilities multiply.
+With all good things, **there needs to be a sacrifice**. A glimpse into the paradoxes of quantum reality — a chance to trace the outlines of the unseen, where logic bends and possibilities multiply.
 
 ---
 
