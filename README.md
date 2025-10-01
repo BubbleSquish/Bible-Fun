@@ -210,6 +210,9 @@ Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic
 ---
 
 ### 🏳️‍🌈 [**LGBT.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/LGBT.md)
+
+> “Thou shalt not lie with mankind, as with womankind: it is abomination.”
+
 Why Scripture rejects LGBT ideology — from creation to Christ’s words.  
 🛡️ A defense of God’s design: male and female, one flesh.  
 
