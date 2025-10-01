@@ -160,7 +160,7 @@ Breaks down the **claims, traps, and rituals** of Satanic thought and symbolism.
 
 ---
 
-### ⛧ [**Purity.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Purity.md)
+### 😊 [**Purity.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Purity.md)
 
 > *“The adversary hates the holy.”*
 
