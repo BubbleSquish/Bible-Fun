@@ -88,7 +88,7 @@ This file serves as the index for the entire **Bible-Fun** project, containing d
 > Referenced for context only; not involved in project development
 
 - **s8.pdf** © A.J. Meyer, II — original author
-- **[ChatGPT](https://chatgpt.com/)** & ~~[DeepSeek](https://deepseek.com/) — AI assistants used in creating this project
+- **[ChatGPT](https://chatgpt.com/)** & [DeepSeek](https://deepseek.com/) — AI assistants used in creating this project
 
 ---
 
