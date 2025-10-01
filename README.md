@@ -8,7 +8,7 @@
 
 *A creative exploration of biblical themes through modern lenses*
 
-**KJV • Not to be taken too seriously • Religion + AI Project**
+**KJV • Religion + AI Project**
 
 </div>
 
