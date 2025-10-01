@@ -28,7 +28,7 @@ A **Christ-approved guide** to spiritual mysteries.
 
 ---
 
-### ✅ [**Jesus'-Promises.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Jesus'-Promises.md)
+### ✅ [**Jesus'-Promises.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Jesus%E2%80%99-Promises.md)
 
 All of Jesus’ **promises** — the counterbalance to judgment.  
 📕 Encouragement for the faithful.
