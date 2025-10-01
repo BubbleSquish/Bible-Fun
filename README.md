@@ -17,44 +17,27 @@
 <p align="center">These files dive deep into scripture, simplifying complex ideas and highlighting key themes from Jesus' teachings to end-times prophecies.</p>
 
 <div align="center">
-- 🐉 [**Biblical-Theories.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Biblical-Theories.md)  
-  <i>What if World of Warcraft had dragons, visions, and also pointed to Christ?</i>  
-  Breaks down apocryphal books like 1 & 2 Esdras from the 1611 KJV, redirecting fantasy lovers to the real spiritual battle.
+- 🐉 [**Biblical-Theories.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Biblical-Theories.md)
 
-- ✝️ [**Christian-Kabbalah.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Christian-Kabbalah.md)  
-  <i>Mysticism, mastered by the Messiah.</i>  
-  A Christ-approved guide to spiritual mysteries—no sephirot without the Light of the World.
+- ✝️ [**Christian-Kabbalah.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Christian-Kabbalah.md)
 
-- ✅ [**Jesus-Promises.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Jesus-Promises.md)  
-  All of Jesus’ promises: The uplifting counterbalance to judgment, packed with encouragement for the faithful.
+- ✅ [**Jesus-Promises.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Jesus-Promises.md)
 
-- ⚠️ [**Jesus-Warns.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Jesus-Warns.md)  
-  A complete list of Jesus’ warnings from the Four Gospels (KJV), covering false prophets, fake disciples, and spiritual traps.
+- ⚠️ [**Jesus-Warns.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Jesus-Warns.md)
 
-- ⚡ [**Heresy-Apostasy-Blasphemy.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Heresy-Apostasy-Blasphemy.md)  
-  <i>Corrupt belief, falling away, or mocking God.</i>  
-  Defines Christianity’s three main rejections of truth: heresy, apostasy, and blasphemy.
+- ⚡ [**Heresy-Apostasy-Blasphemy.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Heresy-Apostasy-Blasphemy.md)
 
-- 🛡️ [**Protection.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Protection.md)  
-  <i>Armor up.</i>  
-  A spiritual survival manual based on Psalm 91, for resisting temptation, demonic intrusion, and warfare—in Jesus' name.
+- 🛡️ [**Protection.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Protection.md)
 
-- 🔎 [**Simplified.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Simplified.md)  
-  The TL;DR Bible: Raw, compressed Scripture without commentary or fluff.
+- 🔎 [**Simplified.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/Simplified.md)
 
-- ⚪⚫ [**Colors.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Colors.md)  
-  <i>Orthodox color language—icons in light and shadow.</i>  
-  Explores white (purity, holiness) and black (death, sin) in Orthodox tradition, icons, and liturgy, all pointing to Christ.
+- ⚪⚫ [**Colors.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Colors.md)
 
-- 📘 [**Jehovah's-Witnesses.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Jehovah's-Witnesses.md)  
-  <i>Another Gospel?</i>  
-  Jesus’ warnings as in the Jehovah’s Witnesses' NWT, compared to KJV, highlighting translation quirks and doctrinal shifts.
+- 📘 [**Jehovah's-Witnesses.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Jehovah's-Witnesses.md)
 
-- 🎯 [**The-Book-of-Psalms.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/The-Book-of-Psalms.md)  
-  Battle hymns of the remnant: Trust, war cries, and survival scripts for Revelation.
+- 🎯 [**The-Book-of-Psalms.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/The-Book-of-Psalms.md)
 
-- 🔥 [**The-Book-of-Revelation.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/The-Book-of-Revelation.md)  
-  The endgame: Dragons, wrath, salvation—full apocalyptic vision, no filters.
+- 🔥 [**The-Book-of-Revelation.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/The-Book-of-Revelation.md)
 </div>
 
 ---
@@ -64,52 +47,29 @@
 <p align="center">Spot the echoes of Jesus' teachings across world faiths. From ancient taboos to modern mysticism, see how they intersect (or clash) with biblical wisdom.</p>
 
 <div align="center">
-- 🌿 [**Animism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Animism.md)  
-  <i>Spirits in trees—but who made the Tree?</i>  
-  Compares animistic reverence with Jesus’ warnings against idolatry and false spirits.
+- 🌿 [**Animism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Animism.md)
 
-- ☸️ [**Buddhism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Buddhism.md)  
-  <i>Detached truth isn’t enough if the Judge is personal.</i>  
-  Parallels between Buddhist emptiness and illusion with the Suffering Servant.
+- ☸️ [**Buddhism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Buddhism.md)
 
-- 🕉️ [**Hinduism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Hinduism.md)  
-  <i>What if Yeshua (Jesus) walked through Varanasi?</i>  
-  Jesus-style warnings from Vaishnavism, Shaivism, and more—the Living Water breaking karma's cycle.
+- 🕉️ [**Hinduism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Hinduism.md)
 
-- 🌋 [**Kapu.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Kapu.md)  
-  <i>Taboo laws meet the Word made flesh.</i>  
-  Parallels between Kapu codes and divine judgment: Sin still costs blood.
+- 🌋 [**Kapu.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Kapu.md)
 
-- ☪︎ [**Islam.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Islam.md)  
-  Jesus warns against hypocrisy, greed, pride, and more—echoed in the Qur’an and Sunnah on shirk, nifaq, and oppression.
+- ☪︎ [**Islam.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Islam.md)
 
-- 📜 [**Mormonism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Mormonism.md)  
-  <i>Yeshua (Jesus) in America—warnings from the resurrected Christ in the Book of Mormon.</i>  
-  Direct quotes from 3 Nephi on pride, secret societies, and false churches.
+- 📜 [**Mormonism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Mormonism.md)
 
-- 🩸 [**Satanism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Satanism.md)  
-  <i>The Biblical Roast of Occultism.</i>  
-  Exposes claims, traps, and rituals as parodies of God.
+- 🩸 [**Satanism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Satanism.md)
 
-- 😊 [**Purity.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Purity.md)  
-  <i>The adversary hates the holy.</i>  
-  Satan as liar, accuser, deceiver—opposing purity, but overcome by Christ's blood.
+- 😊 [**Purity.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Purity.md)
 
-- 🧪 [**Scientology.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Scientology.md)  
-  <i>When false light claims to be science.</i>  
-  Analyzes “A History of Man,” exposing demonic origins versus true resurrection.
+- 🧪 [**Scientology.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Scientology.md)
 
-- 🏯 [**Shinto.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Shinto.md)  
-  <i>Clean hands, but what about the heart?</i>  
-  Parallels Shinto purity with the Gospel’s inner righteousness.
+- 🏯 [**Shinto.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Shinto.md)
 
-- ☯️ [**Taoism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Taoism.md)  
-  <i>The Way meets the Truth.</i>  
-  Taoist harmony alongside Jesus’ spiritual warnings—the narrow way to life.
+- ☯️ [**Taoism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Taoism.md)
 
-- ✡️ [**Judaism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Judaism.md)  
-  <i>Before Abraham was, I AM.</i>  
-  Jesus-like warnings in Torah, Tanakh, and Talmud: Judgment and messianic clues.
+- ✡️ [**Judaism.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Other/Judaism.md)
 </div>
 
 ---
@@ -119,12 +79,9 @@
 <p align="center">Where faith meets physics: Wild theories blending cosmology, quantum paradoxes, and biblical metaphors.</p>
 
 <div align="center">
-- 🍎 <img width="32" height="21" alt="Forbidden Fruit" src="https://github.com/user-attachments/assets/ea6d4a73-4baf-41b4-9d79-87a3b193e74e" /> [**s8.pdf**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/s8.pdf)  
-  Represents the Forbidden Fruit from Genesis 3:5—a glimpse into quantum paradoxes where logic bends.
+- 🍎 <img width="32" height="21" alt="Forbidden Fruit" src="https://github.com/user-attachments/assets/ea6d4a73-4baf-41b4-9d79-87a3b193e74e" /> [**s8.pdf**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/s8.pdf)
 
-- 🧬 [<img width="47" height="34" alt="Passion Fruits" src="https://github.com/user-attachments/assets/2d590f5e-7bef-4dea-bb7a-aa99819b0299" /> **Fruits.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Fruits.md)  
-  <i>When physics meets the Cross.</i>  
-  Merges Super Spin Cosmology with Christ-centered theology: All things consist by Him (Colossians 1:17).
+- 🧬 [<img width="47" height="34" alt="Passion Fruits" src="https://github.com/user-attachments/assets/2d590f5e-7bef-4dea-bb7a-aa99819b0299" /> **Fruits.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Science/Theories/Fruits.md)
 </div>
 
 <p align="center">If this sparks your curiosity, star the repo, fork it, or contribute your own twists! Questions? Open an issue.</p>
