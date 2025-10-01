@@ -207,6 +207,7 @@ Draws parallels between **Taoist harmony** and **Jesus’ spiritual warnings**.
 Tracks Jesus-like warnings embedded in the **Torah**, **Tanakh**, and **Talmudic** traditions.  
 🔥 Judgment, messianic clues, spiritual lawfare — the groundwork before the cross.
 
+---
 
 ### 🏳️‍🌈 [**LGBT.md**](https://github.com/BubbleSquish/Bible-Fun/blob/main/Biblical/Christ/LGBT.md)
 Why Scripture rejects LGBT ideology — from creation to Christ’s words.  
