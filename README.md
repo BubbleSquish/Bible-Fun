@@ -70,7 +70,7 @@ A collection of documents that explore, simplify, and draw parallels between Jes
 
 | File | Description |
 |------|-------------|
-| **[<img width="32" height="21" src="https://github.com/user-attachments/assets/ea6d4a73-4baf-41b4-9d79-87a3b193e74e" alt="download" /> s8.pdf](Science/Theories/s8.pdf)** | **The Forbidden Fruit** — Quantum paradoxes and unseen realities |
+| **[<img width="32" height="21" src="https://github.com/user-attachments/assets/ea6d4a73-4baf-41b4-9d79-87a3b193e74e" alt="download" /> s8.pdf](Science/Theories/s8.pdf)** | **With all good things, there needs to be a sacrifice** — Quantum paradoxes and unseen realities |
 | **[<img width="47" height="34" src="https://github.com/user-attachments/assets/2d590f5e-7bef-4dea-bb7a-aa99819b0299" alt="PF" /> Fruits](Science/Theories/Fruits.md)** | *"When physics meets the Cross"* <br>Super Spin Cosmology meets Christ-centered theology |
 
 ---
