@@ -34,7 +34,7 @@ A collection of documents that explore, simplify, and draw parallels between Jes
 | **[🔥 Book of Revelation](Biblical/Christ/The-Book-of-Revelation.md)** | The endgame — dragons, wrath, salvation in full apocalyptic vision |
 | **[🏳️‍🌈 LGBT](Biblical/Christ/LGBT.md)** | Scripture's perspective on God's design for gender and relationships |
 
-### 🔮 **Mystical & Apocryphal**
+### 🔮 **Mystical & Informational**
 
 | File | Description |
 |------|-------------|
