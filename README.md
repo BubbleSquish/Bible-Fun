@@ -39,7 +39,7 @@ A collection of documents that explore, simplify, and draw parallels between Jes
 | File | Description |
 |------|-------------|
 | **[🐉 Apocrypha](Biblical/Other/Apocrypha.md)** | *"What if World of Warcraft had dragons that pointed to Christ?"* <br>Breaks down apocryphal books removed from the 1611 KJV |
-| **[✝️ Christian Kabbalah](Biblical/Other/Christian-Kabbalah.md)** | *"Mysticism, mastered by the Messiah"* <br>Christ-approved guide to spiritual mysteries |
+| **[✝️ Christian Kabbalah](Biblical/Other/Christian-Kabbalah.md)** | *"Mysticism, mastered by the Messiah"* <br>The Beginner's to spiritual mysteries |
 | **[⚡ Heresy, Apostasy, Blasphemy](Biblical/Other/Heresy-Apostasy-Blasphemy.md)** | Defines Christianity's three main rejections of truth |
 | **[⚪⚫ Colors](Biblical/Other/Colors.md)** | Orthodox color language in icons, vestments, and liturgy |
 
